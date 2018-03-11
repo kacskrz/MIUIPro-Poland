@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string name="memory_clear_result">%1$s wyczyszczone | %2$s dostępne</string>
+</resources>
