@@ -33,7 +33,7 @@
     <string name="flash_time_on_title">Włączone</string> 
     <string name="flash_time_off_title">Wyłączone</string> 
     <string name="ring_time_summary">Czas: %s ms</string>
-	<string name="sim_time_title">Czas wybrać kartę SIM</string> 
+	<string name="sim_time_title">Okres czasu, w którym można wybrać kartę SIM (przy dwóch kartach)</string> 
     <string name="sim_time_summary">Czas: %s s</string>
 	<string name="key_title">Pokazywanie przycisków</string> 
     <string name="set_key_call_title">Zdolność ukrywania/pokazywania</string> 
