@@ -30,9 +30,9 @@
     <string name="smart_mobile_network_title">Inteligentna sieć komórkowa</string> 
     <string name="sim_select_title">Wybierz typ dla:</string>
     <string name="WiFiOn_mobile_title">Kiedy Wi-Fi jest włączone</string>
-    <string name="switch_mobile_title">Network type on call</string>
-    <string name="smart_wifi_data_transfer">Wyłączenie Wi-Fi, kiedy rozmawiam</string>
-    <string name="smart_mobile_data_transfer">Wyłączenie danych, kiedy rozmawiam</string> 
+    <string name="switch_mobile_title">Typ sieci, kiedy rozmawiasz</string>
+    <string name="smart_wifi_data_transfer">Wyłączenie Wi-Fi, kiedy rozmawiasz</string>
+    <string name="smart_mobile_data_transfer">Wyłączenie danych, kiedy rozmawiasz</string> 
     <string name="smart_timer">Licznik transferu dla 2G</string>
     <string name="smart_timer_sleepon">Włącz licznik transferu, kiedy sieć wchodzi w zasięg 2G</string>
     <string name="smart_mobiledata_on">Dane komórkowe są włączone</string> 
@@ -104,7 +104,7 @@
     <string name="listview_animation_title">Lista animacji</string> 
     <string name="listview_interpolator_title">Lista interpolacji</string>
     <string name="fade_animation_title">Style animacji</string> 
-    <string name="crt_animation_title">Animacje wyłączonego ekranu</string>
+    <string name="crt_animation_title">Animacje wyłączania ekranu</string>
     <string name="animation_framing_title">Częstotliwość ramek</string>
     <string name="volume_panel_title">Panel głośności</string> 
     <string name="volume_full_title">Rozszerzony panel</string> 
