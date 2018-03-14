@@ -1,108 +1,108 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="delete_files_confirm">
-        <item quantity="other">Delete %1$d files</item>
-        <item quantity="zero">Delete %1$d files</item>
-        <item quantity="one">Delete %1$d file</item>
-        <item quantity="two">Delete %1$d files</item>
-        <item quantity="few">Delete %1$d files</item>
-        <item quantity="many">Delete %1$d files</item>
+        <item quantity="other">Usunąć %1$d plików</item>
+        <item quantity="zero">Usunąć %1$d plików</item>
+        <item quantity="one">Usunąć %1$d plik</item>
+        <item quantity="two">Usunąć %1$d pliki</item>
+        <item quantity="few">Usunąć %1$d plików</item>
+        <item quantity="many">Usunąć %1$d plików</item>
     </plurals>
     <plurals name="delete_folders_confirm">
-        <item quantity="other">" and %1$d folders?"</item>
-        <item quantity="zero">" and %1$d folders?"</item>
-        <item quantity="one">" and %1$d folder?"</item>
-        <item quantity="two">" and %1$d folders?"</item>
-        <item quantity="few">" and %1$d folders?"</item>
-        <item quantity="many">" and %1$d folders?"</item>
+        <item quantity="other">" i %1$d folderów?"</item>
+        <item quantity="zero">" i %1$d folderów?"</item>
+        <item quantity="one">" i %1$d folder?"</item>
+        <item quantity="two">" i %1$d foldery?"</item>
+        <item quantity="few">" i %1$d folderów?"</item>
+        <item quantity="many">" i %1$d folderów?"</item>
     </plurals>
     <plurals name="directory_item_count">
-        <item quantity="other">%d items</item>
-        <item quantity="zero">%d items</item>
-        <item quantity="one">%d item</item>
-        <item quantity="two">%d items</item>
-        <item quantity="few">%d items</item>
-        <item quantity="many">%d items</item>
+        <item quantity="other">%d elementów</item>
+        <item quantity="zero">%d elementów</item>
+        <item quantity="one">%d element</item>
+        <item quantity="two">%d elementy</item>
+        <item quantity="few">%d elementów</item>
+        <item quantity="many">%d elementów</item>
     </plurals>
     <plurals name="numSelectedFile">
-        <item quantity="other">%1$d selected</item>
-        <item quantity="zero">%1$d selected</item>
-        <item quantity="one">%1$d selected</item>
-        <item quantity="two">%1$d selected</item>
-        <item quantity="few">%1$d selected</item>
-        <item quantity="many">%1$d selected</item>
+        <item quantity="other">%1$d zaznaczone</item>
+        <item quantity="zero">%1$d zaznaczone</item>
+        <item quantity="one">%1$d zaznaczone</item>
+        <item quantity="two">%1$d zaznaczone</item>
+        <item quantity="few">%1$d zaznaczone</item>
+        <item quantity="many">%1$d zaznaczone</item>
     </plurals>
     <plurals name="items_picture">
-        <item quantity="other"> (%1$d items)</item>
-        <item quantity="zero"> (%1$d items)</item>
-        <item quantity="one"> (%1$d item)</item>
-        <item quantity="two"> (%1$d items)</item>
-        <item quantity="few"> (%1$d items)</item>
-        <item quantity="many"> (%1$d items)</item>
+        <item quantity="other"> (%1$d elementów)</item>
+        <item quantity="zero"> (%1$d elementów)</item>
+        <item quantity="one"> (%1$d element)</item>
+        <item quantity="two"> (%1$d elementy)</item>
+        <item quantity="few"> (%1$d elementów)</item>
+        <item quantity="many"> (%1$d elementów)</item>
     </plurals>
     <plurals name="file_count">
-        <item quantity="other"> %1$d items</item>
-        <item quantity="zero"> %1$d items</item>
-        <item quantity="one"> %1$d item</item>
-        <item quantity="two"> %1$d items</item>
-        <item quantity="few"> %1$d items</item>
-        <item quantity="many"> %1$d items</item>
+        <item quantity="other"> %1$d elementów</item>
+        <item quantity="zero"> %1$d elementów</item>
+        <item quantity="one"> %1$d element</item>
+        <item quantity="two"> %1$d elementów</item>
+        <item quantity="few"> %1$d elementów</item>
+        <item quantity="many"> %1$d elementów</item>
     </plurals>
     <plurals name="search_head_hint_app">
-        <item quantity="other">App %1$s related files (%2$d items)</item>
-        <item quantity="zero">App %1$s related files (%2$d items)</item>
-        <item quantity="one">App %1$s related files (%2$d item)</item>
-        <item quantity="two">App %1$s related files (%2$d items)</item>
-        <item quantity="few">App %1$s related files (%2$d items)</item>
-        <item quantity="many">App %1$s related files (%2$d items)</item>
+        <item quantity="other">Aplikacja %1$s powiązane pliki (%2$d elementów)</item>
+        <item quantity="zero">Aplikacja %1$s powiązane pliki (%2$d elementów)</item>
+        <item quantity="one">Aplikacja %1$s powiązane pliki (%2$d element)</item>
+        <item quantity="two">Aplikacja %1$s powiązane pliki (%2$d elementy)</item>
+        <item quantity="few">Aplikacja %1$s powiązane pliki (%2$d elementów)</item>
+        <item quantity="many">Aplikacja %1$s powiązane pliki (%2$d elementów)</item>
     </plurals>
     <plurals name="search_head_hint_file">
-        <item quantity="other">%1$s related files (%2$d items)</item>
-        <item quantity="zero">%1$s related files (%2$d items)</item>
-        <item quantity="one">%1$s related files (%2$d item)</item>
-        <item quantity="two">%1$s related files (%2$d items)</item>
-        <item quantity="few">%1$s related files (%2$d items)</item>
-        <item quantity="many">%1$s related files (%2$d items)</item>
+        <item quantity="other">%1$s powiązane pliki (%2$d elementów)</item>
+        <item quantity="zero">%1$s powiązane pliki (%2$d elementów)</item>
+        <item quantity="one">%1$s powiązane pliki (%2$d element)</item>
+        <item quantity="two">%1$s powiązane pliki (%2$d elementy)</item>
+        <item quantity="few">%1$s powiązane pliki (%2$d elementów)</item>
+        <item quantity="many">%1$s powiązane pliki (%2$d elementów)</item>
     </plurals>
     <plurals name="search_head_hint_tag">
-        <item quantity="other">Tag %1$s related files (%2$d items)</item>
-        <item quantity="zero">Tag %1$s related files (%2$d items)</item>
-        <item quantity="one">Tag %1$s related files (%2$d item)</item>
-        <item quantity="two">Tag %1$s related files (%2$d items)</item>
-        <item quantity="few">Tag %1$s related files (%2$d items)</item>
-        <item quantity="many">Tag %1$s related files (%2$d items)</item>
+        <item quantity="other">Tag %1$s related files (%2$d elementów)</item>
+        <item quantity="zero">Tag %1$s related files (%2$d elementów)</item>
+        <item quantity="one">Tag %1$s related files (%2$d element)</item>
+        <item quantity="two">Tag %1$s related files (%2$d elementy)</item>
+        <item quantity="few">Tag %1$s related files (%2$d elementów)</item>
+        <item quantity="many">Tag %1$s related files (%2$d elementów)</item>
     </plurals>
     <plurals name="mins_ago">
-        <item quantity="other">%1$d minutes ago</item>
-        <item quantity="zero">%1$d minutes ago</item>
-        <item quantity="one">%1$d minute ago</item>
-        <item quantity="two">%1$d minutes ago</item>
-        <item quantity="few">%1$d minutes ago</item>
-        <item quantity="many">%1$d minutes ago</item>
+        <item quantity="other">%1$d minut temu</item>
+        <item quantity="zero">%1$d minut temu</item>
+        <item quantity="one">%1$d minutę temu</item>
+        <item quantity="two">%1$d minuty temu</item>
+        <item quantity="few">%1$d minut temu</item>
+        <item quantity="many">%1$d minut temu</item>
     </plurals>
     <plurals name="hours_ago">
-        <item quantity="other">%1$d hours ago</item>
-        <item quantity="zero">%1$d hours ago</item>
-        <item quantity="one">%1$d hour ago</item>
-        <item quantity="two">%1$d hours ago</item>
-        <item quantity="few">%1$d hours ago</item>
-        <item quantity="many">%1$d hours ago</item>
+        <item quantity="other">%1$d godzin temu</item>
+        <item quantity="zero">%1$d godzin temu</item>
+        <item quantity="one">%1$d godzinę temu</item>
+        <item quantity="two">%1$d godziny temu</item>
+        <item quantity="few">%1$d godzin temu</item>
+        <item quantity="many">%1$d godzin temu</item>
     </plurals>
     <plurals name="days_ago">
-        <item quantity="other">%1$d days ago</item>
-        <item quantity="zero">%1$d days ago</item>
-        <item quantity="one">%1$d day ago</item>
-        <item quantity="two">%1$d days ago</item>
-        <item quantity="few">%1$d days ago</item>
-        <item quantity="many">%1$d days ago</item>
+        <item quantity="other">%1$d dni temu</item>
+        <item quantity="zero">%1$d dni temu</item>
+        <item quantity="one">%1$d dzień temu</item>
+        <item quantity="two">%1$d dni temu</item>
+        <item quantity="few">%1$d dni temu</item>
+        <item quantity="many">%1$d dni temu</item>
     </plurals>
     <plurals name="found_new_files">
-        <item quantity="other">Found %1$d new files</item>
-        <item quantity="zero">Found %1$d new files</item>
-        <item quantity="one">Found %1$d new file</item>
-        <item quantity="two">Found %1$d new files</item>
-        <item quantity="few">Found %1$d new files</item>
-        <item quantity="many">Found %1$d new files</item>
+        <item quantity="other">Znaleziono %1$d nowych plików</item>
+        <item quantity="zero">Znaleziono %1$d nowych plików</item>
+        <item quantity="one">Znaleziono %1$d nowy plik</item>
+        <item quantity="two">Znaleziono %1$d nowych plików</item>
+        <item quantity="few">Znaleziono %1$d nowych plików</item>
+        <item quantity="many">Znaleziono %1$d nowych plików</item>
     </plurals>
     <plurals name="backup_message_wechat_video">
         <item quantity="other">"%1$d videos in WeChat conversations are about to expire. Back them up to your device's internal storage?"</item>
@@ -149,12 +149,12 @@
         <item quantity="one">You can enter %d character</item>
     </plurals>
     <plurals name="video_items">
-        <item quantity="other"> %1$d items</item>
-        <item quantity="zero"> %1$d items</item>
-        <item quantity="one"> %1$d item</item>
-        <item quantity="two"> %1$d items</item>
-        <item quantity="few"> %1$d items</item>
-        <item quantity="many"> %1$d items</item>
+        <item quantity="other"> %1$d elementów</item>
+        <item quantity="zero"> %1$d elementów</item>
+        <item quantity="one"> %1$d element</item>
+        <item quantity="two"> %1$d elementów</item>
+        <item quantity="few"> %1$d elementów</item>
+        <item quantity="many"> %1$d elementów</item>
     </plurals>
     <plurals name="original_user_days">
         <item quantity="other">• &lt;font color=#fc7050>%1$d&lt;/font> days</item>

@@ -5369,4 +5369,6 @@ Wybierz swój system operacyjny:"</string>
     <string name="wifi_master_key_service_dialog_content">WiFi Master Key jest darmową usługą zapewniającą hasła do udostępnianych sieci Wi-Fi. WiFi Master Key nie udostępnia hasła twojej sieci. Możesz także %1$s.</string>
     <string name="wifi_master_key_service_dialog_title">Udostępniane sieci Wi-Fi</string>
     <string name="location_agps_register_network_type_dialog_summary">Wybierz sieć</string>
+	<string name="memory_system_rom">Pamięć systemowa</string>
+	<string name="memory_system_space">Pamięć systemowa</string>
 </resources>
