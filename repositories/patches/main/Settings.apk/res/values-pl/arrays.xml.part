@@ -93,7 +93,7 @@
         <item>Zamach z centrum</item> 
         <item>Włączenie od dołu</item> 
         <item>Z centrum do środka</item> 
-        <item>Własne</item> 
+        <item>Losowo</item> 
     </string-array> 
 	<string-array name="gesture_anywhere_position_entries"> 
         <item>Lewy</item> 

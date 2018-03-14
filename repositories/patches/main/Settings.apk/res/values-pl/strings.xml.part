@@ -76,7 +76,7 @@
     <string name="vibrate_on">Wibracje przy odblokowaniu</string>
     <string name="toggles_columns_title">Ilość przełączników</string> 
     <string name="toggles_columns_summary">Obecnie: %s w rzędzie</string>
-    <string name="toast_animation_title">Animacje toast</string>
+    <string name="toast_animation_title">Animacje dymków Androida</string>
     <string name="gesture_anywhere_title">Gesty w dowolnym miejscu</string> 
     <string name="gesture_anywhere_enabled_title">Zarządzanie gestami</string> 
     <string name="gesture_anywhere_enabled_summary">Zarządzanie ustawieniami gestów</string> 
