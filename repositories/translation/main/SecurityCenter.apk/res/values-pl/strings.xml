@@ -2331,5 +2331,5 @@ Dodanie aplikacji do Autostartu pomaga w sytuacjach gdy widżet się nie aktuali
     <string name="shutdown_time_day">Wyłączenie urządzenia: za %1$d dni o %2$s</string>
     <string name="shutdown_time_day_tomorrow">Wyłączenie urządzenia: %1$s</string>
     <string name="shutdown_time">Wyłączenie urządzenia: %1$s</string>
-	<string name="app_manager_uninstall">Deinstalacja aplikacji</string>
+	<string name="app_manager_uninstall">Deinstalacja</string>
 </resources>
