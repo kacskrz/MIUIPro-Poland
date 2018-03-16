@@ -101,7 +101,7 @@
   <string name="detail_score">"Ocena: "</string>
   <string name="detail_shortcut">Skrót</string>
   <string name="detail_summary">Łącznie</string>
-  <string name="development_setting">User experience program</string>
+  <string name="development_setting">Program doznań użytkownika</string>
   <string name="device_empty_hint">Puste</string>
   <string name="device_media_empty_hint">Puste</string>
   <string name="do_not_show_this_again">Nie pokazuj ponownie</string>
@@ -369,7 +369,7 @@
   <string name="screen_shot_failure_tips">Zaktualizuj MIUI, aby wykonywać zrzuty ekranu.</string>
   <string name="screen_shot_success">Pomyślnie wykonano zrzut ekranu</string>
   <string name="search_hint">Search for movies, actors, categories…</string>
-  <string name="search_settings">Video;Video settings;mobile data;push;push notifications;notifications;cache;user experience;user experience;wifi;Wi-Fi</string>
+  <string name="search_settings">Wideo;Ustawienia wideo;dane mobilne;push;powiadomienia push;powiadomienia;cache;doznania użytkownika;doznania użytkownika;wifi;Wi-Fi</string>
   <string name="server_summary">Select server (for Beta testers)</string>
   <string name="server_switch">Server</string>
   <string name="setting">Settings</string>

@@ -9,6 +9,7 @@
         <item>"Wczoraj "</item>
         <item>"Dzisiaj "</item>
         <item>"W tym miesiącu "</item>
+        <item>"This month "</item>
     </string-array>
     <string-array name="date_of_traffic_prefix_cmcc">
         <item>"Ten tydzień: "</item>
@@ -19,6 +20,7 @@
         <item>"Wczoraj: "</item>
         <item>"Dzisiaj: "</item>
         <item>"Ten miesiąc: "</item>
+        <item>"This month: "</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>Wczoraj (dane)</item>
@@ -27,6 +29,8 @@
         <item>Wczoraj (Wi-Fi)</item>
         <item>Dzisiaj (Wi-Fi)</item>
         <item>W tym miesiącu (Wi-Fi)</item>
+        <item>Last month WLAN</item>
+        <item>This month WLAN</item>
     </string-array>
     <string-array name="traffic_type">
         <item>"Dane 3G "</item>
@@ -61,7 +65,6 @@
         <item>Częstotliwość użytkowania</item>
         <item>Użyta przestrzeń</item>
         <item>Czas instalacji</item>
-        <item>Aplikacje, które mogą zostać odinstalowane</item>
     </string-array>
     <string-array name="sort_title">
         <item>Sortuj wg statusu</item>
@@ -69,7 +72,6 @@
         <item>Sortuj wg częstotliwości używania</item>
         <item>Sortuj wg użytej przestrzeni</item>
         <item>Sortuj według czasu instalacji</item>
-        <item>Wyświetl aplikacje, które mogą zostać najpierw odinstalowane</item>
     </string-array>
     <string-array name="key_app_info">
         <item>install_source</item>
@@ -103,39 +105,5 @@
         <item>Codziennie</item>
         <item>Od poniedziałku do piątku</item>
         <item>Własne</item>
-    </string-array>
-    <string-array name="power_dialog_auto_clean_memory_items">
-        <item>Po minucie</item>
-        <item>Po 5 min</item>
-        <item>Po 10 min</item>
-        <item>Nigdy</item>
-    </string-array>
-    <string-array name="power_dialog_sleep_items">
-        <item>15 s</item>
-        <item>30 s</item>
-        <item>1 min</item>
-        <item>2 min</item>
-        <item>5 min</item>
-        <item>10 min</item>
-        <item>Nie usypiaj</item>
-    </string-array>
-    <string-array name="power_dialog_cpu_state_items">
-        <item>Wydajny</item>
-        <item>Normalny</item>
-    </string-array>
-    <string-array name="power_dialog_wifi_internet_state_items">
-        <item>Wyłącz</item>
-        <item>Włącz</item>
-        <item>Bez zmian</item>
-    </string-array>
-    <string-array name="power_dialog_vibration_items">
-        <item>Nie wibruj</item>
-        <item>Wibruj w trybie cichym</item>
-        <item>Zawsze wibruj</item>
-    </string-array>
-    <string-array name="power_dialog_vibration_items_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
 </resources>
