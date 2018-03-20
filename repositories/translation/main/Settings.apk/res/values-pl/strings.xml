@@ -2710,7 +2710,7 @@ Każdy użytkownik może aktualizować aplikacje wszystkich innych użytkownikó
     <string name="nfc_payment_default_not_set">Nie ustawiono</string>
     <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
     <string name="nfc_payment_use_default">Użyj domyślnej</string>
-    <string name="nfc_payment_favor_default">Zawsze</string>
+    <string name="nfc_payment_favor_default">Zawsze używaj domyślnej aplikacji</string>
     <string name="nfc_payment_favor_open">Z wyjątkiem, gdy jest otwarta inna aplikacja płatnicza</string>
     <string name="nfc_payment_pay_with">Na terminalu „dotknij i zapłać” zapłać przy użyciu:</string>
     <string name="nfc_how_it_works_title">Płacenie przy terminalu</string>
@@ -5371,4 +5371,6 @@ Wybierz swój system operacyjny:"</string>
     <string name="location_agps_register_network_type_dialog_summary">Wybierz sieć</string>
 	<string name="memory_system_rom">Pamięć systemowa</string>
 	<string name="memory_system_space">Pamięć systemowa</string>
+	<string name="key_operation_diagram">Schemat działania</string>
+	<string name="provision_activation">Aktywny</string>
 </resources>

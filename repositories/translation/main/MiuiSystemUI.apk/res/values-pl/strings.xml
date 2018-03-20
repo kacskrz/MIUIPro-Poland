@@ -819,4 +819,12 @@ d MMMM"</string>
     <string name="monitoring_description_do_learn_more">Więcej informacji</string>
     <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_cert_settings">Otwórz zaufane dane logowania</string>
+	<string name="no_sim_card">Brak karty SIM</string>
+   <string name="notch_status_bar_date_format_12">EEEE, MMMM d</string>
+   <string name="prompt_danger">Ryzyko</string>
+   <string name="prompt_detecting">Wykrywanie</string>
+   <string name="prompt_failure">Błąd</string>
+   <string name="prompt_return_to_split">Podzielony ekran</string>
+   <string name="prompt_safe">Bezpieczne</string>
+   <string name="prompt_unknown">Nieznane</string>
 </resources>

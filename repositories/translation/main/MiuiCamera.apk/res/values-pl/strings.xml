@@ -345,6 +345,8 @@
   <string name="pref_camera_whitebalance_title">Balans bieli</string>
   <string name="pref_camera_zoom_mode_entry_tele">TELE</string>
   <string name="pref_camera_zoom_mode_entry_wide">SZEROKOKĄTNY</string>
+  <string name="pref_camera_zoom_mode_entry_high_pixel">SŁABE OŚWIETLENIE</string>
+  <string name="pref_camera_zoom_mode_entry_standard">STANDARDOWE</string>
   <string name="pref_camera_zoom_mode_title">OBIEKTYW</string>
   <string name="pref_camera_zoom_ratio_tele">200</string>
   <string name="pref_camera_zoom_ratio_wide">100</string>

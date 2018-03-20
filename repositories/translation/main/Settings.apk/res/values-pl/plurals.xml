@@ -322,4 +322,8 @@ Aby dowiedzieć się więcej o tych certyfikatach, skontaktuj się z administrat
         <item quantity="few">Odczekaj %d sekundy i spróbuj ponownie.</item>
         <item quantity="many">Odczekaj %d sekund i spróbuj ponownie.</item>
     </plurals>
+	<plurals name="print_jobs_summary">
+         <item quantity="other">%1$d zadań drukowania</item>
+         <item quantity="one">1 zadanie drukowania</item>
+     </plurals>
 </resources>
