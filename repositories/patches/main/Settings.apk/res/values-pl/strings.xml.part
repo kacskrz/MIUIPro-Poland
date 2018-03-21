@@ -160,4 +160,5 @@
     <string name="statusbar_element_not">- Powiadomienia</string>
     <string name="statusbar_element_other">- Inne</string>
     <string name="foreground_notifications_title">Powiadomienia w tle</string>
+    <string name="runapp_notifications_title">Powiadomienia dla uruchomionych aplikacji</string>
 </resources>
