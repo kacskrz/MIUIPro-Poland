@@ -852,7 +852,7 @@
   <string name="weibo_str">Weibo</string>
   <string name="weixin_not_installed">WeChat isn\'t installed</string>
   <string name="weixin_sticker_tag_str">Sticker</string>
-  <string name="wifi_state">WLAN network</string>
+  <string name="wifi_state">Połączenie Wi-Fi</string>
   <string name="wxcircle_platform">Moments</string>
   <string name="xiaomi_btn_bind">Mi Account</string>
   <string name="xiaomi_btn_str">Mi</string>

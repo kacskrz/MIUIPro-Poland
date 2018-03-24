@@ -417,7 +417,7 @@ podany w wiadomości e-mail wysłanej na podany adres."</string>
     <string name="login_check_find_device">Pobieranie danych bezpieczeństwa urządzenia…</string>
     <string name="unlock_help_notice">"Pomoc:
 Jeśli zapomniałeś swojego hasła, przejdź na id.mi.com, aby zresetować.
-Jeśli nie możesz odblokować urządzenia przejdź na i.mi.com, aby wyłączyć Znajdź urządzenie.
+Jeśli nie możesz zresetować hasła lub ktoś zablokował twoje urządzenie, wejdź na i.mi.com, aby je odblokować.
 Twój numer odblokowujący: %s"</string>
     <string name="login_find_device_bind">Urządzenie jest powiązane z istniejącym kontem Xiaomi (%s).</string>
     <string name="find_device_locked_account_phone" formatted="false">%s, powiązany numer telefonu: %s</string>
