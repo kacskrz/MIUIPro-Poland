@@ -354,4 +354,14 @@
   <string name="xspace_uninstalling">Odinstalowywanie…</string>
   <string name="xspace_weibo_title">Weibo</string>
   <string name="xspace_weixin_title">WeChat</string>
+  <string name="bind_device">Dodaj urządzenia</string>
+  <string name="can_not_switch_when_green_kid_active">Przełączenie do drugiej przestrzeni jest ograniczone przez kontrolę rodzicielską</string>
+  <string name="experience_more_features">Dodaj urządzenie, aby zobaczyć wszystkie funkcje</string>
+  <string name="green_guard">Kontrola rodzicielska</string>
+  <string name="green_guard_des1">Dodaj urządzenia do zdalnego zarządzania nimi</string>
+  <string name="green_guard_des2">Dowiedz się, gdzie znajdują się wszystkie zarządzane urządzenia</string>
+  <string name="green_guard_des3">Kontroluj zainstalowane aplikacje i ogranicz ich użycie</string>
+  <string name="green_guard_title2">Wyświetl informacje o lokalizacji</string>
+  <string name="green_guard_title3">Zarządzaj aplikacjami</string>
+  <string name="need_network_when_bind">Połącz się z siecią przed dodaniem urządzenia</string>
 </resources>
