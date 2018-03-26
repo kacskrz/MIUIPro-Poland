@@ -827,4 +827,5 @@ d MMMM"</string>
    <string name="prompt_return_to_split">Podzielony ekran</string>
    <string name="prompt_safe">Bezpieczne</string>
    <string name="prompt_unknown">Nieznane</string>
+   <string name="click_to_return_multi_window_of_notch">Ponownie do Podzielonego ekranu</string>
 </resources>

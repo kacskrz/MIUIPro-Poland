@@ -364,4 +364,11 @@
   <string name="green_guard_title2">Wyświetl informacje o lokalizacji</string>
   <string name="green_guard_title3">Zarządzaj aplikacjami</string>
   <string name="need_network_when_bind">Połącz się z siecią przed dodaniem urządzenia</string>
+  <string name="encrypt_space_delete_dialog_click_message">"*Jeśli nie potrzebujesz przenosić danych, %s"</string>
+  <string name="encrypt_space_delete_dialog_click_message_action">usuń i utwórz Drugą przestrzeń ponownie.</string>
+  <string name="encrypt_space_delete_dialog_message">"Za chwilę zaktualizujesz wersję Androida. Po aktualizacji dane z Drugiej przestrzeni staną się niekompatybilne. Aby temu zapobiec, przenieś wszystkie dane do Pierwszej przestrzeni, usuń Drugą przestrzeń i utwórz ją ponownie.."</string>
+  <string name="encrypt_space_delete_dialog_positive_text">Przenieś dane</string>
+  <string name="encrypt_space_delete_dialog_title">Uwaga</string>
+  <string name="encrypt_space_delete_notification_message">Usuń Drugą przestrzeń i utwórz nową przestrzeń, aby pomyślnie zaktualizować urządzenie.</string>
+  <string name="encrypt_space_delete_notification_title">Druga przestrzeń</string>
 </resources>

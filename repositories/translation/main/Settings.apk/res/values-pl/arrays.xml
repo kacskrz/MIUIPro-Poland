@@ -1525,4 +1525,26 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>QHD (2K)</item>
         <item>HD (720P)</item>
     </string-array>
+	<string-array name="date_of_app_all">
+         <item>Dzisiaj (dane)</item>
+         <item>W tym miesiącu (dane)</item>
+         <item>W ostatnim miesiącu (dane)</item>
+         <item>Dzisiaj (Wi-Fi)</item>
+         <item>W tym miesiącu (Wi-Fi)</item>
+         <item>W ostatnim miesiącu (Wi-Fi)</item>
+     </string-array>
+     <string-array name="date_of_traffic">
+         <item>"Dzisiaj "</item>
+         <item>"W tym miesiącu "</item>
+         <item>"W ostatnim miesiącu "</item>
+     </string-array>
+     <string-array name="date_of_traffic_prefix">
+         <item>"Dzisiaj: "</item>
+         <item>"W tym miesiącu: "</item>
+         <item>"W ostatnim miesiącu: "</item>
+     </string-array>
+     <string-array name="traffic_type">
+         <item>"Użycie danych kom. "</item>
+         <item>"Użycie Wi-Fi "</item>
+     </string-array>
 </resources>

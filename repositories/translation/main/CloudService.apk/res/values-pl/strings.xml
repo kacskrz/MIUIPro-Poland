@@ -341,7 +341,6 @@
   <string name="micloud_manage_space_data">Zarządzaj danymi w Chmurze Xiaomi</string>
   <string name="micloud_member">Członkostwo Chmury Xiaomi</string>
   <string name="micloud_member_advantage">Uzyskaj więcej przestrzeni dyskowej.</string>
-  <string name="micloud_member_buy_content" formatted="false">Ważne do %s-%s-%s\n\n%s MiKredytów</string>
   <string name="micloud_member_buy_title">Potwierdź zamówienie</string>
   <string name="micloud_member_net_error_alert_message">Nie masz połączenia z internetem.</string>
   <string name="micloud_member_net_error_alert_title">Nie można połączyć z siecią</string>
@@ -559,9 +558,6 @@
   <string name="upgrade_space_tb">TB</string>
   <string name="user_agreement">Umowa Użytkownika</string>
   <string name="user_agreement_p5">\n\n</string>
-  <string name="user_agreement_p6">"Korzystając z tej usługi, zgadzasz się na "</string>
-  <string name="user_agreement_p7">Warunki Użytkowania Chmury Xiaomi</string>
-  <string name="user_agreement_p8">.</string>
   <string name="user_agreement_title">Warunki Użytkowania Chmury Xiaomi</string>
   <string name="vcode">Kod weryfikacyjny</string>
   <string name="verify">Weryfikuj</string>
@@ -576,4 +572,6 @@
   <string name="wipe_secret_photo_dialog_title">Ukryte zdjęcia nie są zsynchronizowane</string>
   <string name="xiaomi_cloud_service">Chmura Xiaomi</string>
   <string name="xiaomi_cloud_service_subtitle">Wszystkie ważne elementy w jednym miejscu</string>
+  <string name="user_agreement_content">"Korzystając z tej usługi, zgadzasz się na %s."</string>
+  <string name="user_agreement_link">"Regulamin Chmury Xiaomi"</string>
 </resources>

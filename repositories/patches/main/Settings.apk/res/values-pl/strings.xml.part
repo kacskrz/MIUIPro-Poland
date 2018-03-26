@@ -26,9 +26,9 @@
     <string name="double_tap_app_title">Aplikacja uruchamiana po dwukliku</string> 
     <string name="swipe_up_app_title">Aplikacja uruchamiana po przesunięciu w górę</string>
     <string name="search_menu_summary">Szukaj ustawień, przesuwając w górę</string> 
-    <string name="smart_mobile_network_settings_title">Stan przesyłania danych i tryby sieci</string> 
+    <string name="smart_mobile_network_settings_title">Inteligentne zarządzanie siecią</string> 
     <string name="smart_mobile_network_title">Inteligentna sieć komórkowa</string> 
-    <string name="sim_select_title">Wybierz typ dla:</string>
+    <string name="sim_select_title">Zastosuj dla:</string>
     <string name="WiFiOn_mobile_title">Kiedy Wi-Fi jest włączone</string>
     <string name="switch_mobile_title">Typ sieci, kiedy rozmawiasz</string>
     <string name="smart_wifi_data_transfer">Wyłączenie Wi-Fi, kiedy rozmawiasz</string>
@@ -150,7 +150,7 @@
     <string name="def_audio_title">Modyfikacja przycisków głośności</string>
     <string name="notification_icon_title">Awatar w powiadomieniach</string>
     <string name="charging_sounds_full_title">Dźwięk, kiedy telefon jest naładowany</string>
-    <string name="numberpicker_change_title">Clicks when setting time</string>
+    <string name="numberpicker_change_title">Kliknięcia podczas ustawiania czasu</string>
     <string name="folder_count_title">Ilość kolumn w folderze</string>
     <string name="status_bar_screen_button_key">Przyciski ekranowe</string>
     <string name="statusbar_element_title">Lokalizacja elementów</string>
@@ -159,6 +159,14 @@
     <string name="statusbar_element_net">- Sieć</string>
     <string name="statusbar_element_not">- Powiadomienia</string>
     <string name="statusbar_element_other">- Inne</string>
+	<string name="search_bluetooth_enable">Bluetooth</string>
     <string name="foreground_notifications_title">Powiadomienia w tle</string>
     <string name="runapp_notifications_title">Powiadomienia dla uruchomionych aplikacji</string>
+	<string name="powermenu_title">Rozszerzone menu ponownego uruchomienia</string>
+	<string name="mobile_icon_title">Ukryj ikonę sieci</string>
+    <string name="mobileact_icon_title">Ukryj strzałki danych mobilnych</string>
+    <string name="airplane_icon_title">Ukryj ikonę samolotu</string>
+	<string name="mobile_icon_info">Ikona sieci</string>
+    <string name="wifi_icon_title">Ukryj ikonę Wi-Fi</string>
+    <string name="wifiact_icon_title">Ukryj strzałki Wi-Fi</string>
 </resources>

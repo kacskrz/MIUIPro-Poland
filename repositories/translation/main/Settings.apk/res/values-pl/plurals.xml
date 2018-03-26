@@ -326,4 +326,16 @@ Aby dowiedzieć się więcej o tych certyfikatach, skontaktuj się z administrat
          <item quantity="other">%1$d zadań drukowania</item>
          <item quantity="one">1 zadanie drukowania</item>
      </plurals>
+	 <plurals name="bg_network_allow_count">
+         <item quantity="other">%d aplikacji może łączyć się z siecią</item>
+         <item quantity="one">%d aplikacja może łączyć się z siecią</item>
+     </plurals>
+     <plurals name="bg_network_restrict_count">
+         <item quantity="other">"%d aplikacji nie może łączyć się z siecią"</item>
+         <item quantity="one">"%d aplikacja nie może łączyć się z siecią"</item>
+     </plurals>
+     <plurals name="firewall_item_summary">
+         <item quantity="other">Ograniczone połączenie dla %s aplikacji</item>
+         <item quantity="one">Ograniczone połączenie dla %s aplikacji</item>
+     </plurals>
 </resources>

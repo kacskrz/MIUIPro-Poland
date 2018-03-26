@@ -85,4 +85,6 @@ Skontaktuj się z agentem sprzedaży, aby uzyskać szczegółowe informacje."</s
     <string name="sys_notification_async_verify_content">Nasza zaktualizowana Polityka bezpieczeństwa wymaga reaktywacji funkcji Znajdź urządzenie.</string>
     <string name="sys_notification_async_open_failed_title">Nie udało się włączyć funkcji Znajdź urządzenie</string>
     <string name="sys_notification_async_open_failed_content">Dotknij aby spróbować ponownie lub anuluj.</string>
+	<string name="emergency_call">Połączenie alarmowe</string>
+	<string name="return_to_call">Wróć do połączenia</string>
 </resources>
