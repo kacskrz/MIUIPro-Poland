@@ -162,7 +162,7 @@
 	<string name="search_bluetooth_enable">Bluetooth</string>
     <string name="foreground_notifications_title">Powiadomienia w tle</string>
     <string name="runapp_notifications_title">Powiadomienia dla uruchomionych aplikacji</string>
-	<string name="powermenu_title">Rozszerzone menu ponownego uruchomienia</string>
+	<string name="powermenu_title">Wyłącz rozszerzone menu ponownego uruchomienia</string>
 	<string name="mobile_icon_title">Ukryj ikonę sieci</string>
     <string name="mobileact_icon_title">Ukryj strzałki danych mobilnych</string>
     <string name="airplane_icon_title">Ukryj ikonę samolotu</string>

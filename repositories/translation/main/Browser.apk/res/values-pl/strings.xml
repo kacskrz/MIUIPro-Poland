@@ -939,4 +939,7 @@ Pamiętaj, że pobrane pliki i dodane zakładki będą zapisane."</string>
     <string name="webview_find_on_page">Znajdź na stronie</string>
     <string name="webviewchromium_private_browsing_warning">Funkcja nie jest wspierana przez tę wersję systemu Android.</string>
     <string name="week_picker_dialog_title">Ustaw tydzień</string>
+	<string name="comment_max_length">Przepraszamy, pole wprowadzania jest pełne.</string>
+	<string name="comment_num_description">Numer komentarza</string>
+	<string name="favorite">Ulubione</string>
 </resources>

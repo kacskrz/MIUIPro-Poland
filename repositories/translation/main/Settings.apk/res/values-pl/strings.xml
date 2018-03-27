@@ -4357,7 +4357,7 @@ Wybierz swój system operacyjny:"</string>
     <string name="wifi_share_action_turn_off">Zatrzymaj udostępnianie sieci</string>
     <string name="wifi_share_list_empty">Brak udostępnionych sieci Wi-Fi</string>
     <string name="wifi_share_connect">Połącz</string>
-    <string name="enalbe_identify_iPhone">Identyfikacja punktu dostępu</string>
+    <string name="enalbe_identify_iPhone">Identyfikacja urządzenia</string>
     <string name="wifi_share_qrcode_title">Udostępnij sieć Wi-Fi</string>
     <string name="wifi_share_qrcode_summary">Zeskanuj kod QR aby udostępnić.</string>
     <string name="wifi_share_qrcode_finish">OK</string>
@@ -5447,7 +5447,6 @@ Wybierz swój system operacyjny:"</string>
   <string name="pref_manage_bg_network">Zarządzaj połączeniami aplikacji z Internetem w tle</string>
   <string name="pref_new_installed_preconfig_title">Domyślne ustawienia nowych aplikacji</string>
   <string name="pref_title_update_notification">Powiadomienia o użyciu danych</string>
-  <string name="privacy_password_bind_account">Dodaj konto Xiaomi</string>
   <string name="restrict_bg_app">Ograniczenie</string>
   <string name="root">Uprawnienia root</string>
   <string name="tether_custom_dialog_title">Limit danych mobilnych</string>
@@ -5459,4 +5458,5 @@ Wybierz swój system operacyjny:"</string>
   <string name="tether_over_limit_warning_notify_message">Wyłącz przenośny hot-spot.</string>
   <string name="tether_over_limit_warning_notify_title">Przekroczono limit danych hot-spotu</string>
   <string name="traffic_none">Żaden</string>
+  <string name="lockscreen_magazine_summary">Wysokiej jakości codzienne tapety ekranu blokady</string>
 </resources>

@@ -227,4 +227,7 @@
     <string name="miprofile_stranger_card">Karta nieznajomego</string>
     <string name="no_balance_message">Brak środków w twoim pakiecie doładowania. Możesz wykonać zwykłe połączenie.</string>
     <string name="purchase_now">Doładuj</string>
+	<string name="crbt_second_hold_prompt">%s jest wstrzymane…</string>
+	<string name="crbt_second_hold_prompt_conference">Telekonferencja jest wstrzymana…</string>
+	<string name="crbt_second_hold_prompt_no_name">Poprzednie połączenie jest wstrzymane…</string>
 </resources>

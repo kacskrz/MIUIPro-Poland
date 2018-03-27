@@ -56,4 +56,5 @@
     <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
     <string name="app_description_title">O Kompasie</string>
     <string name="app_description_content">Kompas jest używany do nawigacji i orientacji w terenie, a także wskazuje kierunki. Po odinstalowaniu aplikacji, taka funkcjonalność nie będzie dostępna.</string>
+	<string name="unit_degree">Stopni</string>
 </resources>
