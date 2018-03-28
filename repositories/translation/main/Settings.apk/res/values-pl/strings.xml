@@ -5458,4 +5458,5 @@ Wybierz swój system operacyjny:"</string>
   <string name="tether_over_limit_warning_notify_title">Przekroczono limit danych hot-spotu</string>
   <string name="traffic_none">Żaden</string>
   <string name="lockscreen_magazine_summary">Wysokiej jakości codzienne tapety ekranu blokady</string>
+	<string name="prompt_no_volte_when_failed">"Usługi VoLTE są niedostępne."</string>
 </resources>
