@@ -3755,7 +3755,6 @@ Pomaga to chronić dane na zgubionych lub skradzionych urządzeniach."</string>
     <string name="sure_sync_now">Synchronizować elementy teraz?</string>
     <string name="sync_now">Synchronizuj</string>
     <string name="suggestion_for_phone_recycled">Dodaj inny numer telefonu</string>
-    <string name="mi_upi_settings">Konto Mi Pay</string>
     <string name="sms_received_sound_title">Otrzymano SMS</string>
     <string name="sms_delivered_sound_title">Dostarczono SMS</string>
     <string name="sms_received_sound_dialog_title">Wybierz dźwięk otrzymania SMS</string>
