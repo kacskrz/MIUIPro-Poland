@@ -459,4 +459,7 @@
   <string name="video_effect_entry_polaroid">Polaroid</string>
   <string name="video_reach_size_limit">Osiągnięto limit rozmiaru</string>
   <string name="wait">Chwileczkę…</string>
+   <string name="portait_effect_entry_movie">Film</string>
+  <string name="portait_effect_entry_riddle">Zagadka</string>
+  <string name="portait_effect_entry_story">Opowieść</string>
 </resources>
