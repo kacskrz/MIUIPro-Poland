@@ -169,4 +169,6 @@
 	<string name="mobile_icon_info">Ikona sieci</string>
     <string name="wifi_icon_title">Ukryj ikonę Wi-Fi</string>
     <string name="wifiact_icon_title">Ukryj strzałki Wi-Fi</string>
+	<string name="hide_app">Ustawienia wyświetlania ikon</string>
+	<string name="hide_app_title">Aplikacje, których ikony mają być ukrywane</string>
 </resources>
