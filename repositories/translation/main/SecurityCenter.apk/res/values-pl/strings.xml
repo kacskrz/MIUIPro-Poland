@@ -2160,4 +2160,18 @@
   <string name="xunyou_net_booster_detail">Użyj usług przyspieszenia prędkości Xunyou dla grania</string>
   <string name="xunyou_pay_webview">Usługi Xunyou</string>
   <string name="xunyou_server_expired">Sesja wygasła.</string>
+  <string name="dialog_button_ignore">Zignoruj</string>
+	<string name="dialog_button_yes">Tak</string>
+	<string name="summary_background_connection">Ograniczyłeś łączność w tle dla tej aplikacji. Dotknij, aby to naprawić.</string>
+	<string name="summary_block_calls_from_cantacts">"Używasz listy blokowanych. Dotknij, aby to naprawić."</string>
+	<string name="summary_block_calls_from_strangers">Akceptujesz tylko połączenia od kontaktów. Dotknij, aby to naprawić.</string>
+	<string name="summary_do_not_disturb">"Używasz trybu Nie przeszkadzać. Dotknij, aby to naprawić."</string>
+	<string name="summary_eye_shield">"Używasz Trybu czytania. Dotknij, aby to naprawić."</string>
+	<string name="summary_restrict_data_usage">Ograniczyłeś użycie danych dla tej aplikacji. Dotknij, aby to naprawić.</string>
+	<string name="title_background_connection">"Nie możesz użyć %s w tle?"</string>
+	<string name="title_block_calls_from_cantacts">Brakuje połączeń od twoich kontaktów?</string>
+	<string name="title_block_calls_from_strangers">Brakuje ważnych połączeń?</string>
+	<string name="title_do_not_disturb">"Nie słychać Twojego dzwonka?"</string>
+	<string name="title_eye_shield">"Kolor ekranu nie wygląda dobrze?"</string>
+	<string name="title_restrict_data_usage">"%s nie może połączyć się z Internetem?"</string>
 </resources>

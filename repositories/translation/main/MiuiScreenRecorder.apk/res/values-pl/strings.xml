@@ -37,7 +37,7 @@
     <string name="low_battery">Naładuj telefon przed rozpoczęciem nagrywania</string>
     <string name="low_battery_title">Niski poziom baterii</string>
     <string name="low_battery_warning">Poziom baterii jest zbyt niski. Zatrzymano nagrywanie i zapisano wideo.</string>
-    <string name="low_memory">Dostępny jest mniej niż 1GB przestrzeni. Możesz nagrać nie więcej niż 20 minut.</string>
+    <string name="low_memory">Dostępne jest mniej niż 1GB przestrzeni. Możesz nagrać nie więcej niż 20 minut.</string>
     <string name="low_memory_title">Za mało miejsca</string>
     <string name="low_momery_warning">Zbyt mało wolnego miejsca. Zatrzymano nagrywanie i zapisano wideo.</string>
     <string name="memory_not_allowed">Brak dostępnej pamięci. Zrób trochę miejsca, aby móc nagrywać.</string>

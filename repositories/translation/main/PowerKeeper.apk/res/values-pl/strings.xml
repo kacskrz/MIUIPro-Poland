@@ -78,11 +78,11 @@
     <string name="base_info">Podstawowe informacje</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_result_text">Nie udało się znaleźć żadnych aplikacji</string>
-	<string name="enable_sleep_mode">Włącz tryb uśpienia, aby zoptymalizować działanie urządzenia w nocy</string>
-	<string name="power_consume_abnormal_night">W nocy bateria rozładowuje się w anormalny sposób</string>
+	<string name="enable_sleep_mode">Włącz tryb uśpienia, aby zoptymalizować zużycie baterii w nocy</string>
+	<string name="power_consume_abnormal_night">Bateria w nocy jest drenowana</string>
 	<string name="sleepmode_disclaimer_agree">Zgoda</string>
 	<string name="sleepmode_disclaimer_cancel">Wyjdź</string>
-	<string name="sleepmode_privacy_content">Ta funkcja będzie korzystać z systemu i informacji o urządzeniu. Dane te nie zostaną przesłane na zdalny serwer.</string>
-	<string name="sleepmode_privacy_link">Szczegółowe bezpieczeństwo i prywatność</string>
+	<string name="sleepmode_privacy_content">Ta funkcja będzie korzystać z systemu i informacji o urządzeniu. Dane te nie zostaną przesłane na żadne zdalne serwery.</string>
+	<string name="sleepmode_privacy_link">Czytaj więcej o prywatności i bezpieczeństwie</string>
 	<string name="sleepmode_privacy_title">Tryb uśpienia</string>
 </resources>

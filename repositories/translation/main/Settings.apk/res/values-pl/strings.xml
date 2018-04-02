@@ -5458,4 +5458,15 @@ Wybierz swój system operacyjny:"</string>
   <string name="tether_over_limit_warning_notify_title">Przekroczono limit danych hot-spotu</string>
   <string name="traffic_none">Żaden</string>
   <string name="lockscreen_magazine_summary">Wysokiej jakości codzienne tapety ekranu blokady</string>
+  <string name="default_launcher_title">Domyślny launcher</string>
+  <string name="direct_boot_unaware_dialog_message">"Informacja: Będziesz mógł używać tej klawiatury po ponownym uruchomieniu wtedy, gdy urządzenie jest odblokowane."</string>
+  <string name="miui_userguide">Poradnik MIUI</string>
+  <string name="oldman_app_label">Tryb Lite</string>
+  <string name="oldman_installed_current_btn">Przywróć domyślny ekran domowy</string>
+  <string name="oldman_installed_current_des">"Ustawiono Tryb Lite jako domyślny ekran domowy. Dotknij przycisku, aby przywrócić domyślny ekran domowy."</string>
+  <string name="oldman_installed_not_current_btn">Ustaw jako domyślny ekran domowy</string>
+  <string name="oldman_installed_not_current_des">Tryb Lite został zainstalowany na urządzeniu. Możesz go użyć jako domyślnego ekranu domowego.</string>
+  <string name="oldman_mode_entry_name">Tryb Lite</string>
+  <string name="oldman_uninstalled_btn">Zainstaluj</string>
+  <string name="oldman_uninstalled_des">Tryb Lite pozbywa się bałaganu i sprawia, że ekran główny jest prosty i minimalistyczny.</string>
 </resources>

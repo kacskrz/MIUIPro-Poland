@@ -371,4 +371,9 @@
   <string name="encrypt_space_delete_dialog_title">Uwaga</string>
   <string name="encrypt_space_delete_notification_message">Usuń Drugą przestrzeń i utwórz nową przestrzeń, aby pomyślnie zaktualizować urządzenie.</string>
   <string name="encrypt_space_delete_notification_title">Druga przestrzeń</string>
+  <string name="entrance_reopen_toast_msg">System pokazuje skrót do Drugiej przestrzeni z powodu różnych typów haseł</string>
+  <string name="reset_password_dialog_message">"Używasz różnych typów haseł dla pierwszej i drugiej przestrzeni. Aby ukryć skrót, Druga przestrzeń powinna używać tego samego typu hasła, co Pierwsza przestrzeń."</string>
+  <string name="reset_password_dialog_positve_btn_title">Zmień</string>
+  <string name="reset_password_dialog_title">"Nie można ukryć skrótu do Drugiej przestrzeni"</string>
+  <string name="xspace_install_completed_global">Dodano ikonę do Pulpitu</string>
 </resources>
