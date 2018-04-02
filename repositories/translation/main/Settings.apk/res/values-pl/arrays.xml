@@ -1547,4 +1547,12 @@ Note: Only for Ubuntu 8.04!"</item>
          <item>"Użycie danych kom. "</item>
          <item>"Użycie Wi-Fi "</item>
      </string-array>
+	 <string-array name="select_logd_system_levels">
+		<item>Wyłączone</item>
+        <item>Błędy</item>
+        <item>Ostrzeżenia</item>
+        <item>Informacje</item>
+        <item>Debugowanie</item>
+        <item>Verbose</item>
+    </string-array>
 </resources>
