@@ -5466,7 +5466,6 @@ Wybierz swój system operacyjny:"</string>
   <string name="oldman_installed_current_des">"Ustawiono Tryb Lite jako domyślny ekran domowy. Dotknij przycisku, aby przywrócić domyślny ekran domowy."</string>
   <string name="oldman_installed_not_current_btn">Ustaw jako domyślny ekran domowy</string>
   <string name="oldman_installed_not_current_des">Tryb Lite został zainstalowany na urządzeniu. Możesz go użyć jako domyślnego ekranu domowego.</string>
-  <string name="oldman_mode_entry_name">Tryb Lite</string>
   <string name="oldman_uninstalled_btn">Zainstaluj</string>
   <string name="oldman_uninstalled_des">Tryb Lite pozbywa się bałaganu i sprawia, że ekran główny jest prosty i minimalistyczny.</string>
 </resources>
