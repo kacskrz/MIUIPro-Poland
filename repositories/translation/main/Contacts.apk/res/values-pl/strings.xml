@@ -291,7 +291,7 @@
     <string name="deleteConfirmation_title">Usunąć ten kontakt?</string>
     <string name="delete_call_log_message">Usunąć z historii połączeń?</string>
     <string name="delete_call_log_selected_title">Usunąć zaznaczoną historię połączeń?</string>
-    <string name="delete_call_log_title">Wybierz historię połączeń</string>
+    <string name="delete_call_log_title">Wyczyść historię połączeń</string>
     <string name="delete_contact_calllog_title">Usunąć z historii połączeń?</string>
     <string name="delete_dial_input">Usuń</string>
     <string name="delete_duplicate">Scal</string>
@@ -1223,4 +1223,10 @@ Aby rozpocząć, dotknij ikony Scalania na dole swojego ekranu."</string>
     <string name="yellowpage_user_profile">Profile</string>
     <string name="yesterday">Wczoraj</string>
     <string name="zero_items_selected">Nic nie zaznaczono</string>
+	<string name="pref_key_sdn_manage">Wyświetl SDN</string>
+	<string name="pref_key_sdn_manage1">Wyświetl SDN karty 1</string>
+	<string name="pref_key_sdn_manage2">Wyświetl SDN karty 2</string>
+	<string name="sdnContacts_empty">Brak SDN</string>
+	<string name="sdnContacts_emptyLoading">Ładowanie SDN…</string>
+	<string name="special_code_security_exception">Operacja odrzucona:niedomyślny dialer</string>
 </resources>

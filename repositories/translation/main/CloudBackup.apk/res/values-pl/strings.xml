@@ -160,4 +160,8 @@
     <string name="notification_channel_remind">Przypomnienie</string>
     <string name="done_remove">Pomyślnie usunięto</string>
     <string name="doing_restore_home">Przywracanie ekranu głównego i ustawień…</string>
+	<string name="get_device_id_error">Nie udało się uzyskać ID urządzenia</string>
+	<string name="home_hint_global_launcher">Pulpit Poco</string>
+	<string name="home_restore_error">Nie udało się przywrócić ekranu głównego</string>
+	<string name="self_phone_home">Ten telefon: %s</string>
 </resources>
