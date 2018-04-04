@@ -51,8 +51,7 @@
   </plurals>
   <plurals name="Nalbum_total_songs">
     <item quantity="other">W sumie: %d utworów</item>
-    <item quantity="one" />
-    <item quantity="few">W sumie: %d utwór</item>
+    <item quantity="one">W sumie: %d utwór</item>
     <item quantity="few">W sumie: %d utwory</item>
   </plurals>
   <plurals name="Nartists_count">
@@ -112,8 +111,7 @@
   </plurals>
   <plurals name="Nsong_group_detail_subtitle">
     <item quantity="other">Utworzono %1$s | W sumie %2$d utworów</item>
-    <item quantity="one" />
-    <item quantity="few">Utworzono %1$s | W sumie %2$d utwór</item>
+    <item quantity="one">Utworzono %1$s | W sumie %2$d utwór</item>
     <item quantity="few">Utworzono %1$s | W sumie %2$d utwory</item>
   </plurals>
   <plurals name="Nstop_backup_songs_message">

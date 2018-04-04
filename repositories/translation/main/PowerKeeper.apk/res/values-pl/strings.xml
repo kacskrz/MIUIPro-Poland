@@ -85,4 +85,7 @@
 	<string name="sleepmode_privacy_content">Ta funkcja będzie korzystać z systemu i informacji o urządzeniu. Dane te nie zostaną przesłane na żadne zdalne serwery.</string>
 	<string name="sleepmode_privacy_link">Czytaj więcej o prywatności i bezpieczeństwie</string>
 	<string name="sleepmode_privacy_title">Tryb uśpienia</string>
+	<string name="app_preload_policies_summary">Użyj modelu ML, aby przewidzieć aplikacje, z których będziesz korzystać, i wczytuj zasoby z wyprzedzeniem, poprawiając wydajność uruchamiania aplikacji</string>
+	<string name="app_preload_policies_title">Inteligentne preładowanie aplikacji</string>
+	<string name="pref_config_title">Optymalizacja wydajności</string>
 </resources>
