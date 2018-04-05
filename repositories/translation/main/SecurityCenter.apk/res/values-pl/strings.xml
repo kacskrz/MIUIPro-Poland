@@ -2174,4 +2174,13 @@
 	<string name="title_do_not_disturb">"Nie słychać Twojego dzwonka?"</string>
 	<string name="title_eye_shield">"Kolor ekranu nie wygląda dobrze?"</string>
 	<string name="title_restrict_data_usage">"%s nie może połączyć się z Internetem?"</string>
+	<string name="exit_dialog_garbage_clean_message">Ilość śmieci na Twoim urządzeniu jest większa niż %s. Wyczyścić kosz?</string>
+  <string name="exit_dialog_garbage_clean_positive_button">Wyczyść</string>
+  <string name="exit_dialog_garbage_clean_title">Czyszczenie kosza</string>
+  <string name="exit_dialog_release_storage_message">Więcej niż 80% pamięci telefonu jest zajęte. Zwolnij miejsce, odinstalowując nigdy nieużywane aplikacje.</string>
+  <string name="exit_dialog_release_storage_positive_button">Zwolnij miejsce</string>
+  <string name="exit_dialog_release_storage_title">Zwolnij miejsce</string>
+  <string name="exit_dialog_scan_message">"Wynik wydajności Twojego urządzenia jest niższy niż 75 punktów. Czy chcesz zoptymalizować je teraz?"</string>
+  <string name="exit_dialog_scan_positive_button">Optymalizuj</string>
+  <string name="exit_dialog_scan_title">Optymalizacja wydajności</string>
 </resources>
