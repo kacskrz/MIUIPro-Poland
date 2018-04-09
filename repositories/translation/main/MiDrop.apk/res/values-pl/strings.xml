@@ -243,4 +243,6 @@ W wersji 6.0 Androida i nowszych należy włączyć usługi lokalizacji, aby wys
     <string name="wifi_name">Nazwa Wi-Fi:</string>
     <string name="wifi_psw">Hasło:</string>
     <string name="wifi_state">Status Wi-Fi</string>
+	<string name="HIPS_Perm_SystemAlert">Wyświetl wyskakujące okna (pop-up)</string>
+	<string name="HIPS_Perm_show_when_locked">Pokazuj na ekranie blokady</string>
 </resources>

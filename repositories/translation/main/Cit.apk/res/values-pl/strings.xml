@@ -21,4 +21,5 @@
     <string name="abc_capital_on">WŁ.</string>
     <string name="abc_capital_off">WYŁ.</string>
     <string name="search_menu_title">Szukaj</string>
+	<string name="sound_file_delete">Plik dźwiękowy nie istnieje, nie można go odtworzyć!</string>
 </resources>

@@ -5493,4 +5493,6 @@ Wybierz swój system operacyjny:"</string>
   <string name="input_hint_prefix">Wprowadź %1$s</string>
   <string name="mi_pay">Mi Wallet</string>
   <string name="mi_pay_summary">Bus Card/Mi Pay/Card Emulator</string>
+  <string name="miui_touch_filtered_warning">Jeśli aplikacja blokuje okno dialogowe uprawnień, przeciągnij nakładający się element lub zamknij aplikację.</string>
+  <string name="wireless_connected">Połączono</string>
 </resources>
