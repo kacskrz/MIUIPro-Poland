@@ -821,12 +821,12 @@ d MMMM"</string>
     <string name="monitoring_description_ca_cert_settings">Otwórz zaufane dane logowania</string>
 	<string name="no_sim_card">Brak karty SIM</string>
    <string name="notch_status_bar_date_format_12">EEEE, MMMM d</string>
-   <string name="prompt_danger">Ryzyko</string>
+   <string name="prompt_danger">Niebezpieczeństwo</string>
    <string name="prompt_detecting">Wykrywanie</string>
    <string name="prompt_failure">Błąd</string>
    <string name="prompt_return_to_split">Podzielony ekran</string>
    <string name="prompt_safe">Bezpieczne</string>
    <string name="prompt_unknown">Nieznane</string>
-   <string name="click_to_return_multi_window_of_notch">Ponownie do Podzielonego ekranu</string>
+   <string name="click_to_return_multi_window_of_notch">Do Podzielonego ekranu</string>
    <string name="select_logd_level">Wybierz poziom logu</string>
 </resources>

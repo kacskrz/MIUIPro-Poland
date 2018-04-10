@@ -942,4 +942,22 @@ Pamiętaj, że pobrane pliki i dodane zakładki będą zapisane."</string>
 	<string name="comment_max_length">Przepraszamy, pole wprowadzania jest pełne.</string>
 	<string name="comment_num_description">Numer komentarza</string>
 	<string name="favorite">Ulubione</string>
+	<string name="cast_video">Przesyłaj wideo</string>
+  <string name="collect_video">Zbierz wideo</string>
+  <string name="download_video">Pobierz wideo</string>
+  <string name="exit_fullscreen">Wyjdź z trybu pełnoekranowego</string>
+  <string name="mw_notification_category_browser">Przeglądarka</string>
+  <string name="mw_notification_category_content_suggestions">Sugestie</string>
+  <string name="mw_notification_category_downloads">Pobierania</string>
+  <string name="mw_notification_category_fullscreen_controls">Kontrola witryny na pełnym ekranie</string>
+  <string name="mw_notification_category_group_general">Ogólne</string>
+  <string name="mw_notification_category_incognito">Incognito</string>
+  <string name="mw_notification_category_media">Media</string>
+  <string name="mw_notification_category_screen_capture">Nagrywanie ekranu</string>
+  <string name="mw_notification_category_sites">Strony</string>
+  <string name="mw_notification_hidden_text">Ukryta zawartość</string>
+  <string name="play_pause_video">Odtwórz albo spauzuj wideo</string>
+  <string name="play_video">Odtwórz wideo</string>
+  <string name="popup_video">Wideo pop-up</string>
+  <string name="share_video">Podziel się wideo</string>
 </resources>
