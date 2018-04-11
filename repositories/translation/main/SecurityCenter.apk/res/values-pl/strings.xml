@@ -2183,4 +2183,11 @@
   <string name="exit_dialog_scan_message">"Wynik wydajności Twojego urządzenia jest niższy niż 75 punktów. Czy chcesz zoptymalizować je teraz?"</string>
   <string name="exit_dialog_scan_positive_button">Optymalizuj</string>
   <string name="exit_dialog_scan_title">Optymalizacja wydajności</string>
+  <string name="exit_dialog_homepage_optimise_message">"Wynik wydajności Twojego urządzenia jest niższy niż 80 punktów. Czy chcesz zoptymalizować je teraz?"</string>
+  <string name="gb_msg_completely_shielded">Ukryj wiadomości</string>
+  <string name="gb_msg_completely_shielded_summary">Ukryj</string>
+  <string name="gb_msg_quickly_answer">Zgoda na szybkie odpowiedzi</string>
+  <string name="gb_msg_quickly_answer_summary">Szybkie odpowiedzi</string>
+  <string name="gb_msg_transparent_dispaly">Powiadomienia z przezroczystym tłem</string>
+  <string name="gb_msg_transparent_dispaly_summary">Przezroczystość</string>
 </resources>

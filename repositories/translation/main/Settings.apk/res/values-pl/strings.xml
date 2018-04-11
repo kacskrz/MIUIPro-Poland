@@ -5495,4 +5495,10 @@ Wybierz swój system operacyjny:"</string>
   <string name="mi_pay_summary">Bus Card/Mi Pay/Card Emulator</string>
   <string name="miui_touch_filtered_warning">Jeśli aplikacja blokuje okno dialogowe uprawnień, przeciągnij nakładający się element lub zamknij aplikację.</string>
   <string name="wireless_connected">Połączono</string>
+  <string name="confirm_frp_credential_message">Urządzenie zostało zresetowane do ustawień fabrycznych, możesz je odblokować za pomocą poprzedniego klucza tajnego.</string>
+  <string name="confirm_frp_credential_skip_txt">UŻYJ MOJEGO KONTA GOOGLE</string>
+  <string name="confirm_frp_credential_title">Factory Reset Protection</string>
+  <string name="wifi_tether_enabled_summary">%1$s jest aktywne</string>
+  <string name="accessibility_wifi_security_type_none">Otwarta sieć</string>
+  <string name="accessibility_wifi_security_type_secured">Zabezpieczona sieć</string>
 </resources>
