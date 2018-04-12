@@ -78,4 +78,5 @@
   <string name="voice_assist_desp">Powiedz \"Mi AI\" do swojego telefonu. Mi AI rozpozna twój głos i będziesz w stanie kontrolować swoje urządzenie.</string>
   <string name="voice_assist_title">Wybudź za pomocą głosu</string>
   <string name="welcome">Witamy</string>
+  <string name="sim_card_detecting_confirm_turn_on_network">Pozwalać na łączenie się z sieciami mobilnymi? Jeśli to zrobisz, karta SIM, którą włożysz, będzie używana do łączenia się z mobilnymi sieciami.</string>
 </resources>
