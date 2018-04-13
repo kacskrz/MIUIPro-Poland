@@ -7,7 +7,7 @@
         <item>Zawsze z wychodzącymi</item> 
     </string-array> 
     <string-array name="call_entries"> 
-        <item>Nic</item> 
+        <item>Żadna</item> 
         <item>Otwórz dialer</item> 
         <item>Wyjdź do pulpitu</item> 
         <item>Wyjdź i zablokuj telefon</item> 

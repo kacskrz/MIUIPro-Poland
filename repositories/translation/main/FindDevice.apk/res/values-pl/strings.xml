@@ -23,8 +23,8 @@
     <string name="find_device_success_title">Znajdź urządzenie</string>
     <string name="find_device_notice_p1">Przejdź do</string>
     <string name="find_device_notice_p2">i.mi.com</string>
-    <string name="find_device_notice_p3">"aby zlokalizować, zablokować lub zresetować telefon.
-W przypadku zmiany kart SIM zostanie wysłany SMS w celu reaktywacji usługi."</string>
+    <string name="find_device_notice_p3">aby zlokalizować, zablokować lub zresetować telefon.</string>
+	<string name="find_device_notice_sms_alert">Jeśli przełączysz karty SIM, SMS może zostać wysłany automatycznie, aby ponownie aktywować tę funkcję.</string>
     <string name="i_know">OK</string>
     <string name="unlock_error_network">Nie można połączyć z siecią</string>
     <string name="unlock_error_device_id">Nie można uzyskać ID urządzenia</string>

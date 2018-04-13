@@ -39,7 +39,7 @@
     <string name="set_key_call_title">Zdolność ukrywania/pokazywania</string> 
     <string name="key_title_summary">Aby wyświetlić przyciski w oknie połączenia, przesuń numer w dół. Aby je ukryć, przesuń numer z powrotem w górę.</string> 
     <string name="key_call_title">Stan początkowy</string> 
-	<string name="call_home_title">Akcja przycisku [HOME]</string>
+	<string name="call_home_title">Akcja przycisku Home</string>
 	<string name="auto_redial_times_title">Próby wyboru</string> 
     <string name="auto_redial_times_summary">Instalowane: %s</string>
 </resources>

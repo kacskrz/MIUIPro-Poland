@@ -2,7 +2,7 @@
 <resources>
   <string name="access_select">Selected %s</string>
   <string name="access_unselect">Deselected %s</string>
-  <string name="accessibility_title">Panel informacyjny</string>
+  <string name="accessibility_title">Asystent MIUI</string>
   <string name="accordingto_position">Rozpoznawaj najczęstsze miejsca za pomocą GPS</string>
   <string name="account_address">Address</string>
   <string name="add_stock">Dodaj</string>
@@ -43,7 +43,7 @@
   <string name="alipay_sdk_payed_success">Paid successfully</string>
   <string name="alipay_sdk_tiemout">Session expired. Sign in again.</string>
   <string name="already">Completed:</string>
-  <string name="app_label">Panel informacyjny</string>
+  <string name="app_label">Asystent MIUI</string>
   <string name="apps">App suggestions</string>
   <string name="apps_label">Aplikacje</string>
   <string name="arrive">Landing</string>
@@ -177,7 +177,7 @@
   <string name="cta_negative">Zamknij</string>
   <string name="cta_positive">Szczegóły</string>
   <string name="cta_text5">Usługa wymaga połączenia z Internetem i dostępu do usług lokalizacyjnych. Zgodzić się?</string>
-  <string name="cta_title">Panel informacyjny może Ci pomóc</string>
+  <string name="cta_title">Asystent MIUI może Ci pomóc</string>
   <string name="currency_china">CNY</string>
   <string name="daily_greeting">Daily greetings</string>
   <string name="data_error">Wystąpił błąd. Poczekaj minutę lub dwie i spróbuj ponownie.</string>

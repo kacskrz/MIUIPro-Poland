@@ -104,13 +104,13 @@
         <item>Fala (lewo)</item> 
         <item>Fala (prawo)</item> 
         <item>Alfa</item> 
-        <item>Skaluj</item> 
+        <item>Przenikanie przez tło</item> 
         <item>Stos (góra)</item> 
         <item>Stos (dół)</item> 
         <item>Odgięcie</item> 
         <item>Zagięcie</item> 
-        <item>Przełóż (lewo)</item> 
-        <item>Przełóż (prawo)</item> 
+        <item>Wysuwanie od lewej</item> 
+        <item>Wysuwanie od prawej</item> 
     </string-array> 
     <string-array name="listview_interpolator_entries"> 
         <item>Domyślnie</item> 

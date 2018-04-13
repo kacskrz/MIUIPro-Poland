@@ -10,4 +10,5 @@
     <string name="ci_extreme">Wzmocnienie</string>
     <string name="user">Własne</string>
     <string name="picker_title">Panel efektów muzycznych</string>
+	<string name="new_app_name">AudioEffect</string>
 </resources>

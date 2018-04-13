@@ -843,7 +843,7 @@ Spróbuj inną skrzynkę odbiorczą."</string>
     <string name="recognize_ticket_air_notification_title">Lot %3$s (%1$s/%2$s) rozpocznie się wkrótce. Sprawdź swoje informacje o locie.</string>
     <string name="recognize_ticket_air_state_stopover">Cel pośredni</string>
     <string name="recognize_ticket_air_state_transfer">Przesiadka</string>
-    <string name="recognize_ticket_air_user_name">Pasażer:</string>
+    <string name="recognize_ticket_air_user_name">Pasażer: %1$s</string>
     <string name="recognize_ticket_title">Bilety na samolot i pociąg</string>
     <string name="recognize_ticket_train_alter">Zmieniono</string>
     <string name="recognize_ticket_train_depart_date">Wyrusza o %3$s:%4$s w dniu %1$s/%2$s</string>
@@ -1046,18 +1046,18 @@ Dotknij "<b>Synchronizuj teraz</b> aby zsynchronizować jednorazowo pocztę lub 
     <string name="you_are_in_mobile_network">Użyć danych mobilnych do wysłania logów?</string>
     <string name="youfuli">Promocja</string>
     <string name="zip_viewer_no_file">Brak plików.</string>
-	<string name="debug_mode_preferencecategory">proszę ustawić tryb wyjścia LOG</string>
-  <string name="debug_mode_settings">Tryb debugowania</string>
-  <string name="file_save_term">Okres przechowywania pliku</string>
-  <string name="forever">Na zawsze</string>
-  <string name="log_save_path">Ścieżka zapisu LOG</string>
+	<string name="debug_mode_preferencecategory">Ustaw wyjście logu</string>
+  <string name="debug_mode_settings">Ustawienia trybu debugowania</string>
+  <string name="file_save_term">Okresy przechowywania pliku</string>
+  <string name="forever">Zawsze</string>
+  <string name="log_save_path">Ścieżka logu</string>
   <string name="one_day">Jeden dzień</string>
   <string name="one_month">Miesiąc</string>
   <string name="one_week">Tydzień</string>
-  <string name="output_all_log">Wyjście całości LOGu</string>
+  <string name="output_all_log">Zapisuj wszystkie logi</string>
   <string name="output_db_summary">To wyświetli twoją bazę danych</string>
   <string name="output_db_title">Wyjście bazy danych</string>
-  <string name="output_to_disk">Zapis wyjścia LOG do pliku</string>
-  <string name="request_copy_db_to_disk">Żądanie aplikacji o skopiowanie bazy danych do pliku</string>
+  <string name="output_to_disk">Zapisz logi do pliku</string>
+  <string name="request_copy_db_to_disk">Mail prosi o skopiowanie bazy danych do pliku</string>
   <string name="three_day">Trzy dni</string>
 </resources>

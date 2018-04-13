@@ -5494,9 +5494,9 @@ Wybierz swój system operacyjny:"</string>
   <string name="mi_pay_summary">Bus Card/Mi Pay/Card Emulator</string>
   <string name="miui_touch_filtered_warning">Jeśli aplikacja blokuje okno dialogowe uprawnień, przeciągnij nakładający się element lub zamknij aplikację.</string>
   <string name="wireless_connected">Połączono</string>
-  <string name="confirm_frp_credential_message">Urządzenie zostało zresetowane do ustawień fabrycznych, możesz je odblokować za pomocą poprzedniego klucza tajnego.</string>
-  <string name="confirm_frp_credential_skip_txt">UŻYJ MOJEGO KONTA GOOGLE</string>
-  <string name="confirm_frp_credential_title">Factory Reset Protection</string>
+  <string name="confirm_frp_credential_message">Urządzenie zostało zresetowane do ustawień fabrycznych. Możesz je odblokować za pomocą swojego poprzedniego hasła.</string>
+  <string name="confirm_frp_credential_skip_txt">Użyj zamiast tego konta Google</string>
+  <string name="confirm_frp_credential_title">Odblokowanie po przywróceniu ustawień fabrycznych</string>
   <string name="wifi_tether_enabled_summary">%1$s jest aktywne</string>
   <string name="accessibility_wifi_security_type_none">Otwarta sieć</string>
   <string name="accessibility_wifi_security_type_secured">Zabezpieczona sieć</string>
@@ -5508,9 +5508,11 @@ Wybierz swój system operacyjny:"</string>
   <string name="gxzw_add_fingerprint_know">Rozumiem</string>
   <string name="gxzw_add_fingerprint_message">Utrrzymaj palce i powierzchnię ekranu w czystości</string>
   <string name="gxzw_add_fingerprint_move_indicate">Poruszaj lekko palcem</string>
-  <string name="gxzw_add_fingerprint_move_message">Zbyt wiele obszarów powtarzania się palca, proszę lekko przesunąć palec</string>
+  <string name="gxzw_add_fingerprint_move_message">"Nie można zarejestrować pozostałych obszarów Twojego odcisku palca. Poruszaj lekko palcem"</string>
   <string name="gxzw_add_fingerprint_move_title">Poruszaj lekko palcem</string>
-  <string name="gxzw_add_fingerprint_put_finger_message">Naciśnij mocniej, podnieś po wibracjach i kilkakrotnie powtórz</string>
-  <string name="gxzw_add_fingerprint_put_finger_title">Naciśnij mocniej, podnieś po wibracjach</string>
+  <string name="gxzw_add_fingerprint_put_finger_message">Naciśnij trochę mocniej i podnieś swój palec po tym, jak poczujesz wibracje. Powtórz tą czynność kilkukrotnie.</string>
+  <string name="gxzw_add_fingerprint_put_finger_title">Naciśnij mocniej i podnieś po zawibrowaniu</string>
   <string name="gxzw_add_fingerprint_title">Dodaj odcisk palca</string>
+  <string name="add_fingerprint_cancel_button_text">Wstecz</string>
+  <string name="select_logd_level">Wybierz poziom logu</string>
 </resources>
