@@ -380,4 +380,5 @@
   <string name="remove_button_time">Usuń i zrestartuj(%ds)</string>
   <string name="stop_xspace_alert_content">"Usunąłeś wszystkie sklonowane aplikacje. Czy chcesz usunąć także konta i dane tych aplikacji? Po tym wyborze możesz utworzyć podwójne aplikacje ponownie, gdy tylko ich potrzebujesz."</string>
   <string name="stop_xspace_alert_title">Usuwanie kont sklonowanych aplikacji</string>
+  <string name="msg_switch_file_second">Czy usunąć te pliki w Drugiej przestrzeni po ich przeniesieniu?</string>
 </resources>

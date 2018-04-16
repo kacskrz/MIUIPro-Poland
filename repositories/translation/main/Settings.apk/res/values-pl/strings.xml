@@ -5515,4 +5515,9 @@ Wybierz swój system operacyjny:"</string>
   <string name="gxzw_add_fingerprint_title">Dodaj odcisk palca</string>
   <string name="add_fingerprint_cancel_button_text">Wstecz</string>
   <string name="select_logd_level">Wybierz poziom logu</string>
+  <string name="choose_a_card_to_reset">Wybierz kartę SIM do resetu</string>
+  <string name="reset_network_bluetooth">Bluetooth</string>
+  <string name="reset_network_category">To zresetuje wszystkie ustawienia sieci, włączając w to:</string>
+  <string name="reset_network_data">Dane mobilne</string>
+  <string name="reset_network_wifi">Wi-Fi</string>
 </resources>

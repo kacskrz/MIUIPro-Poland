@@ -2190,4 +2190,5 @@
   <string name="gb_msg_quickly_answer_summary">Szybkie odpowiedzi</string>
   <string name="gb_msg_transparent_dispaly">Powiadomienia z przezroczystym tłem</string>
   <string name="gb_msg_transparent_dispaly_summary">Przezroczystość</string>
+  <string name="managed_user_title">Pracujące aplikacje</string>
 </resources>
