@@ -5520,4 +5520,7 @@ Wybierz swój system operacyjny:"</string>
   <string name="reset_network_category">To zresetuje wszystkie ustawienia sieci, włączając w to:</string>
   <string name="reset_network_data">Dane mobilne</string>
   <string name="reset_network_wifi">Wi-Fi</string>
+  <string name="accessibility_close_tab">Zamknij obecne zadanie</string>
+  <string name="accessibility_more_settings">dodatkowe ustawienia</string>
+  <string name="wifi_hide_password">Ukryj hasło</string>
 </resources>

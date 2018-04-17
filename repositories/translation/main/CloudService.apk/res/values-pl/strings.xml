@@ -574,4 +574,5 @@
   <string name="xiaomi_cloud_service_subtitle">Wszystkie ważne elementy w jednym miejscu</string>
   <string name="user_agreement_content">"Korzystając z tej usługi, zgadzasz się na %s."</string>
   <string name="user_agreement_link">"Regulamin Chmury Xiaomi"</string>
+  <string name="micloud_main_see_unsynced_data">Sprawdź, co jeszcze nie jest zsynchronizowane</string>
 </resources>
