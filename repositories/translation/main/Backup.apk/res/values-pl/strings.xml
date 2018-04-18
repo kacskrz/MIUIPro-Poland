@@ -427,7 +427,7 @@
   <string name="trans_intro_title_private">Ukryty album:</string>
   <string name="trans_main_tutor">Przenieś swoje kontakty, historię połączeń, wiadomości, układ ekranu głównego, aplikacje czy ustawienia systemu na nowe urządzenie</string>
   <string name="trans_my_device">Moje urządzenie</string>
-  <string name="trans_native_no_space">\"Brak miejsca na urządzeniu. Zwolnij przynajmniej %s\"</string>
+  <string name="trans_native_no_space">"Nie ma już wolnego miejsca na starym urządzeniu (%s dostępne). \nZwolnij przestrzeń albo przenieś tylko najważniejsze rzeczy."</string>
   <string name="trans_one_key_migrate">Przenoszenie danych</string>
   <string name="trans_operate_func_one">Metoda A</string>
   <string name="trans_operate_func_two">Metoda B</string>
@@ -460,7 +460,7 @@
   <string name="trans_security_tips_message">Niektóre aplikacje nie są obsługiwane przez Przenoszenie danych.</string>
   <string name="trans_security_tips_title">Kompatybilność przy przenoszeniu danych</string>
   <string name="trans_select_data">Wybierz dane do wysłania</string>
-  <string name="trans_select_data_no_space">Mało pamięci na nowym urządzeniu.\n Wybierz pliki ponownie lub zwolnij %s miejsca w pamięci.</string>
+  <string name="trans_select_data_no_space">Nie ma już wolnego miejsca na nowym urządzeniu (%s dostępne). \nZwolnij przestrzeń albo przenieś tylko najważniejsze rzeczy.</string>
   <string name="trans_select_data_tips">Wybierz pliki do przeniesienia.\nDuplikaty plików na nowym urządzeniu zostaną nadpisane.</string>
   <string name="trans_select_data_too_large">Wybrałeś zbyt wiele elementów do przesyłania.\nWybierz tylko ważne elementy, aby przyspieszyć przesyłanie.</string>
   <string name="trans_select_device_receive">Wybierz urządzenie do odebrania danych.</string>
@@ -477,7 +477,7 @@
   <string name="trans_start_failed_title">Rozpoczęcie transferu nieudane</string>
   <string name="trans_switching_5g">Przełączanie na Wi-Fi 5GHz…</string>
   <string name="trans_time_format_second">mniej niż minutę</string>
-  <string name="trans_time_spent">\nCałkowity czas: %s</string>
+  <string name="trans_time_spent">Całkowity czas: %s</string>
   <string name="trans_wait_trans_data">Połączono.\nOczekiwanie na transmisję…</string>
   <string name="trans_waiting_ensurance">Upewnij się, że starsze urządzenie jest włączone\ni ma uruchomione Przenoszenie danych</string>
   <string name="trans_waiting_for_sender">Łączenie ze starszym urządzeniem…</string>
@@ -502,4 +502,16 @@
   <string name="xiaomi_update_dialog_message">Wprowadzenie wersji %1$s\nRozmiar: %2$s</string>
   <string name="xiaomi_update_dialog_message_diff">Wprowadzenie wersji %1$s\nRozmiar aktualizacji różnicowej: %2$s</string>
   <string name="xiaomi_update_dialog_title">Dostępna aktualizacja</string>
+  <string name="button_clean_garbage">Zwolnij miejsce</string>
+  <string name="button_got_it">OK</string>
+  <string name="button_quit">Wyjdź</string>
+  <string name="err_bakfile_not_exist">"Plik kopii nie istnieje."</string>
+  <string name="err_binder_died">Aplikacja niespodziewanie się zatrzymała.</string>
+  <string name="err_pkg_not_exist">"Nie znaleziono aplikacji."</string>
+  <string name="err_user_abort">Anulowane przez użytkownika.</string>
+  <string name="trans_failed_details_page_title">Nieudane transfery</string>
+  <string name="trans_generate_qrcode_failed">"Nie udało się wygenerować kodu QR. Spróbuj ponownie."</string>
+  <string name="trans_generating_qrcode">Generowanie kodu QR…</string>
+  <string name="trans_old_phone_low_space_msg">"Mi Mover potrzebuje trochę miejsca na przeniesienie danych, ale wygląda na to, że na starym urządzeniu nie ma już wolnej przestrzeni. Zwolnij miejsce w \"Panelu sterowania\" albo przenieś tylko najważniejsze rzeczy."</string>
+  <string name="trans_old_phone_low_space_title">Brak wolnej przestrzeni</string>
 </resources>

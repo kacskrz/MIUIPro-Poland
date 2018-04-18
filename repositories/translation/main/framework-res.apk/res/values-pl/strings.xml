@@ -1561,4 +1561,5 @@
   <string name="zen_mode_forever_dnd">Do wyłączenia Nie przeszkadzać</string>
   <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
   <string name="zen_mode_until">Do %1$s</string>
+  <string name="move_button_text">Przełącz</string>
 </resources>

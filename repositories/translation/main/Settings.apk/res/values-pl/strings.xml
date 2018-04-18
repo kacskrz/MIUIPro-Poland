@@ -5523,4 +5523,8 @@ Wybierz swój system operacyjny:"</string>
   <string name="accessibility_close_tab">Zamknij obecne zadanie</string>
   <string name="accessibility_more_settings">dodatkowe ustawienia</string>
   <string name="wifi_hide_password">Ukryj hasło</string>
+  <string name="close_optimization_message">Po wyłączeniu tej funkcji może dojść do zmiany układu tekstu, kont i innych części MIUI.</string>
+  <string name="close_optimization_option">Wyłącz</string>
+  <string name="open_optimization_message">Włącz optymalizację, aby cieszyć się płynniejszym i szybszym interfejsem.</string>
+  <string name="open_optimization_option">Włącz</string>
 </resources>

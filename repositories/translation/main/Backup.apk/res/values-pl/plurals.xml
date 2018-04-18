@@ -78,4 +78,12 @@
         <item quantity="few">Zaimportuj %d elementy ponownie.</item>
         <item quantity="many">Zaimportuj %d elementów ponownie.</item>
     </plurals>
+	  <plurals name="trans_failed_summary">
+    <item quantity="other">"Nie można było przenieść %d elementów. Dotknij, aby zobaczyć szczegóły."</item>
+    <item quantity="one">"Nie można było przenieść %d elementu. Dotknij, aby zobaczyć szczegóły."</item>
+	</plurals>
+	<plurals name="trans_item_failed_summary">
+    <item quantity="other">"Nie można było przenieść %d elementów."</item>
+    <item quantity="one">"Nie można było przenieść %d elementu."</item>
+	</plurals>
 </resources>
