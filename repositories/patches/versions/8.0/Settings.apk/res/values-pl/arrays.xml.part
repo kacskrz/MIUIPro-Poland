@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="app_ops_labels">
+        <item>Lokalizacja</item>
+        <item>Lokalizacja</item>
+        <item>Lokalizacja</item>
+        <item>Wibracje</item>
+        <item>Odczytywanie kontaktów</item>
+        <item>Modyfikowanie kontaktów</item>
+        <item>Odczytywanie rejestru połączeń</item>
+        <item>Modyfikowanie rejestru połączeń</item>
+        <item>Odczytywanie kalendarza</item>
+        <item>Modyfikowanie kalendarza</item>
+        <item>Lokalizacja</item>
+        <item>Publikowanie powiadomień</item>
+        <item>Lokalizacja</item>
+        <item>Połączenia telefoniczne</item>
+        <item>Czytanie SMS-ów/MMS-ów</item>
+        <item>Pisanie SMS-ów/MMS-ów</item>
+        <item>Odbieranie SMS-ów/MMS-ów</item>
+        <item>Odbieranie SMS-ów/MMS-ów</item>
+        <item>Odbieranie SMS-ów/MMS-ów</item>
+        <item>Odbieranie SMS-ów/MMS-ów</item>
+        <item>Wysyłanie SMS-ów/MMS-ów</item>
+        <item>Czytanie SMS-ów/MMS-ów</item>
+        <item>Pisanie SMS-ów/MMS-ów</item>
+        <item>Modyfikowanie ustawień</item>
+        <item>Rysuj na górze</item>
+        <item>Dostęp do powiadomień</item>
+        <item>Kamera</item>
+        <item>Nagraj dźwięk</item>
+        <item>Odtwórz dźwięk</item>
+        <item>Czytaj schowek</item>
+        <item>Modyfikuj schowek</item>
+        <item>Przyciski multimediów</item>
+        <item>Aktywność audio</item>
+        <item>Głośność główna</item>
+        <item>Głośność mowy</item>
+        <item>Głośność dzwonka</item>
+        <item>Głośność multimediów</item>
+        <item>Głośność alarmu</item>
+        <item>Głośność powiadomień</item>
+        <item>Głośność Bluetooth</item>
+        <item>Utrzymanie aktywności</item>
+        <item>Lokalizacja</item>
+        <item>Lokalizacja</item>
+        <item>Pobierz statystyki użycia</item>
+        <item>Wycisz mikrofon/wyłącz wyciszenie</item>
+        <item>Wyświetlanie komunikatu</item>
+        <item>Wyświetlanie multimediów</item>
+        <item>Aktywacja połączenia VPN</item>
+        <item>Zapis tapety</item>
+        <item>Wsparcie struktury</item>
+        <item>Wsparcie robienia zrzutów ekranu</item>
+        <item>Czytanie stanu telefonu</item>
+        <item>Dodawanie poczty głosowej</item>
+        <item>Zastosowanie SIP</item>
+        <item>Przetwarzanie połączeń wychodzących</item>
+        <item>Odcisk palca</item>
+        <item>Czujniki na ciele</item>
+        <item>Odczyt komunikatów z sieci komórkowej</item>
+        <item>Pozorowanie lokalizacji</item>
+        <item>Odczyt pamięci</item>
+        <item>Zapis w pamięci</item>
+        <item>Włączanie ekranu</item>
+        <item>Pobieranie listy kont</item>
+        <item>Działanie w tle</item>
+        <item>Głośność przy ułatwieniach dostępu</item>
+  </string-array>
+  <string-array name="app_ops_summaries">
+    <item>przybliżona lokalizacja</item>
+        <item>dokładna lokalizacja</item>
+        <item>GPS</item>
+        <item>wibracje</item>
+        <item>odczytywanie kontaktów</item>
+        <item>modyfikowanie kontaktów</item>
+        <item>odczytywanie rejestru połączeń</item>
+        <item>modyfikowanie rejestru połączeń</item>
+        <item>odczytywanie kalendarza</item>
+        <item>modyfikowanie kalendarza</item>
+        <item>skanowanie wi-fi</item>
+        <item>powiadomienie</item>
+        <item>skanowanie bts</item>
+        <item>połączenia telefoniczne</item>
+        <item>odczytywanie SMS-ów</item>
+        <item>zapisywanie SMS-ów</item>
+        <item>odbieranie SMS-ów</item>
+        <item>odbieranie SMS-ów alarmowych</item>
+        <item>odbieranie MMS-ów</item>
+        <item>odbieranie wiadomości WAP push</item>
+        <item>wysyłanie SMS-ów</item>
+        <item>odczytywanie SMS-ów ICC</item>
+        <item>zapisywanie SMS-ów ICC</item>
+        <item>modyfikowanie ustawień</item>
+        <item>rysuj na górze</item>
+        <item>dostęp do powiadomień</item>
+        <item>kamera</item>
+        <item>nagraj dźwięk</item>
+        <item>odtwórz dźwięk</item>
+        <item>czytaj schowek</item>
+        <item>modyfikuj schowek</item>
+        <item>przyciski multimediów</item>
+        <item>aktywność audio</item>
+        <item>głośność główna</item>
+        <item>głośność mowy</item>
+        <item>głośność dzwonka</item>
+        <item>głośność multimediów</item>
+        <item>głośność alarmu</item>
+        <item>głośność powiadomień</item>
+        <item>głośność Bluetooth</item>
+        <item>utrzymanie aktywności</item>
+        <item>monitorowanie lokalizacji</item>
+        <item>monitor wysoki zasilanie lokalizacja</item>
+        <item>pobierz statystyki użycia</item>
+        <item>wycisz mikrofon/wyłącz wyciszenie</item>
+        <item>wyświetlanie powiadomienia</item>
+        <item>wyświetlanie multimediów</item>
+        <item>aktywacja połączenia VPN</item>
+        <item>zapis tapety</item>
+        <item>wsparcie struktury</item>
+        <item>wsparcie robienia zrzutów ekranu</item>
+        <item>czytanie stanu telefonu</item>
+        <item>dodawanie poczty głosowej</item>
+        <item>zastosowanie SIP</item>
+        <item>przetwarzanie połączeń wychodzących</item>
+        <item>odcisk palca</item>
+        <item>czujniki na ciele</item>
+        <item>odczyt komunikatów z sieci komórkowej</item>
+        <item>pozorowanie lokalizacji</item>
+        <item>odczyt pamięci</item>
+        <item>zapis w pamięci</item>
+        <item>włączanie ekranu</item>
+        <item>pobieranie listy kont</item>
+        <item>uruchamianie w tle</item>
+        <item>głośność przy ułatwieniach dostępu</item>
+  </string-array>
+  <string-array name="automatic_storage_management_days">
+    <item>Starsze niż 30 dni</item>
+        <item>Starsze niż 60 dni</item>
+        <item>Starsze niż 90 dni</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+    <item>Użyj wyboru systemu (domyślnie)</item>
+        <item>16 bitów/próbkę</item>
+        <item>24 bity/próbkę</item>
+        <item>32 bity/próbkę</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+    <item>Użyj wyboru systemu (domyślnie)</item>
+        <item>16 bitów/próbkę</item>
+        <item>24 bity/próbkę</item>
+        <item>32 bity/próbkę</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+    <item>Użyj wyboru systemu (domyślnie)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+    <item>Użyj wyboru systemu (domyślnie)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+    <item>Optymalizacja pod kątem jakości dźwięku</item>
+        <item>Zrównoważona jakość dźwięku i połączenia</item>
+        <item>Optymalizacja pod kątem jakości połączenia</item>
+        <item>Optymalna (adaptacyjna szybkość transmisji bitów)</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+    <item>Optymalizacja pod kątem jakości dźwięku (990 kb/s lub 909 kb/s)</item>
+        <item>Zrównoważona jakość dźwięku i połączenia (660 kb/s lub 606 kb/s)</item>
+        <item>Optymalizacja pod kątem jakości połączenia (330 kb/s lub 303 kb/s)</item>
+        <item>Optymalna (adaptacyjna szybkość transmisji bitów)</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+    <item>Użyj wyboru systemu (domyślnie)</item>
+    <item>44.1 kHz</item>
+    <item>48.0 kHz</item>
+    <item>88.2 kHz</item>
+    <item>96.0 kHz</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+    <item>Użyj wyboru systemu (domyślnie)</item>
+    <item>44.1 kHz</item>
+    <item>48.0 kHz</item>
+    <item>88.2 kHz</item>
+    <item>96.0 kHz</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_summaries">
+    <item>Użyj wyboru systemu (domyślnie)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Audio Qualcomm® aptX™</item>
+        <item>Audio Qualcomm® aptX™ HD</item>
+        <item>LDAC</item>
+        <item>Włączenie opcjonalnych kodeków</item>
+        <item>Wyłączenie opcjonalnych kodeków</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_titles">
+    <item>Użyj wyboru systemu (domyślnie)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Audio Qualcomm® aptX™</item>
+        <item>Audio Qualcomm® aptX™ HD</item>
+        <item>LDAC</item>
+        <item>Włącz opcjonalne kodeki</item>
+        <item>Wyłącz opcjonalne kodeki</item>
+  </string-array>
+  <string-array name="city_name">
+    <item>Abidjan</item>
+    <item>Accra</item>
+    <item>Addis Ababa</item>
+    <item>Algier</item>
+    <item>Blantyre</item>
+    <item>Brazzaville</item>
+    <item>Cairo</item>
+    <item>Casablanca</item>
+    <item>Conakry</item>
+    <item>Dakar</item>
+    <item>Dar es Salaam</item>
+    <item>Djibouti</item>
+    <item>Freetown</item>
+    <item>Gaborone</item>
+    <item>Harare</item>
+    <item>Johannesburg</item>
+    <item>Kampala</item>
+    <item>Khartoum</item>
+    <item>Kigali</item>
+    <item>Kinshasa</item>
+    <item>Lagos</item>
+    <item>Maseru</item>
+    <item>Mogadishu</item>
+    <item>Nairobi</item>
+    <item>São Tomé</item>
+    <item>Timbuktu</item>
+    <item>Trypolis</item>
+    <item>Tunis</item>
+    <item>Anchorage</item>
+    <item>Mendoza</item>
+    <item>Aruba</item>
+    <item>Asunción</item>
+    <item>Barbados</item>
+    <item>Belize</item>
+    <item>Bogotá</item>
+    <item>Buenos Aires</item>
+    <item>Cancun</item>
+    <item>Caracas</item>
+    <item>Cayman Islands</item>
+    <item>Chicago</item>
+    <item>Costa Rica</item>
+    <item>Curaçao</item>
+    <item>Dawson Creek</item>
+    <item>Denver</item>
+    <item>Detroit</item>
+    <item>Dominica</item>
+    <item>Edmonton</item>
+    <item>El Salvador</item>
+    <item>Fortaleza</item>
+    <item>Grand Turk</item>
+    <item>Grenada</item>
+    <item>Guatemala</item>
+    <item>Guyana</item>
+    <item>Halifax</item>
+    <item>Havana</item>
+    <item>Indianapolis</item>
+    <item>Knox City</item>
+    <item>Petersburg</item>
+    <item>Tell City</item>
+    <item>Vevay</item>
+    <item>Vincennes</item>
+    <item>Winamac</item>
+    <item>Kingston</item>
+    <item>Nuestra Señora de La Paz</item>
+    <item>Lima</item>
+    <item>Los Angeles</item>
+    <item>Louisville</item>
+    <item>Managua</item>
+    <item>Martinique</item>
+    <item>Metlakatla</item>
+    <item>Mexico City</item>
+    <item>Monterrey</item>
+    <item>Montevideo</item>
+    <item>Montreal</item>
+    <item>Nassau</item>
+    <item>Nowy Jork</item>
+    <item>Beulah</item>
+    <item>New Salem</item>
+    <item>Panama</item>
+    <item>Phoenix</item>
+    <item>Port of Spain</item>
+    <item>Port-au-Prince</item>
+    <item>Puerto Rico</item>
+    <item>Santo Domingo</item>
+    <item>São Paulo</item>
+    <item>St. Johns</item>
+    <item>St. Kitts</item>
+    <item>St. Lucia</item>
+    <item>St. Thomas</item>
+    <item>Tijuana</item>
+    <item>Toronto</item>
+    <item>Vancouver</item>
+    <item>Winnipeg</item>
+    <item>South Pole</item>
+    <item>Longyearbyen</item>
+    <item>Almaty</item>
+    <item>Amman</item>
+    <item>Anadyr</item>
+    <item>Aqtau</item>
+    <item>Bagdad</item>
+    <item>Bahrajn</item>
+    <item>Baku</item>
+    <item>Bangkok</item>
+    <item>Bejrut</item>
+    <item>Calcutta</item>
+    <item>Damascus</item>
+    <item>Dhaka</item>
+    <item>Dubaj</item>
+    <item>Gaza</item>
+    <item>Hebron</item>
+    <item>Ho Chi Minh</item>
+    <item>Hong Kong</item>
+    <item>Jakarta</item>
+    <item>Jerusalem</item>
+    <item>Kabul</item>
+    <item>Karachi</item>
+    <item>Kathmandu</item>
+    <item>Kuala Lumpur</item>
+    <item>Kuwait</item>
+    <item>Macau</item>
+    <item>Manila</item>
+    <item>Muscat</item>
+    <item>Phnom Penh</item>
+    <item>Pyongyang</item>
+    <item>Qatar</item>
+    <item>Yangon</item>
+    <item>Riyadh</item>
+    <item>Seul</item>
+    <item>Szanghaj</item>
+    <item>Singapur</item>
+    <item>Taipei</item>
+    <item>Tehran</item>
+    <item>Tel Awiw</item>
+    <item>Tokio</item>
+    <item>Ułan Bator</item>
+    <item>Bermuda</item>
+    <item>Canary Islands</item>
+    <item>Cape Verde</item>
+    <item>Reykjavik</item>
+    <item>Adelaide</item>
+    <item>Brisbane</item>
+    <item>Canberra</item>
+    <item>Darwin</item>
+    <item>Melbourne</item>
+    <item>New South Wales</item>
+    <item>Perth</item>
+    <item>Queensland</item>
+    <item>Sydney</item>
+    <item>Victoria</item>
+    <item>Newfoundland</item>
+    <item>Saskatchewan</item>
+    <item>Easter Island</item>
+    <item>Amsterdam</item>
+    <item>Andorra</item>
+    <item>Athens</item>
+    <item>Belfast</item>
+    <item>Belgrad</item>
+    <item>Berlin</item>
+    <item>Bratysława</item>
+    <item>Bruksela</item>
+    <item>Bukareszt</item>
+    <item>Budapeszt</item>
+    <item>Chisinau</item>
+    <item>Kopenhaga</item>
+    <item>Dublin</item>
+    <item>Gibraltar</item>
+    <item>Helsinki</item>
+    <item>Isle of Man</item>
+    <item>Istanbuł</item>
+    <item>Lizbona</item>
+    <item>Londyn</item>
+    <item>Luksemburg</item>
+    <item>Madryt</item>
+    <item>Malta</item>
+    <item>Mińsk</item>
+    <item>Monaco</item>
+    <item>Moskwa</item>
+    <item>Oslo</item>
+    <item>Paryż</item>
+    <item>Praga</item>
+    <item>Ryga</item>
+    <item>Rzym</item>
+    <item>San Marino</item>
+    <item>Sarajewo</item>
+    <item>Simferopol</item>
+    <item>Skopje</item>
+    <item>Sofia</item>
+    <item>Sztokholm</item>
+    <item>Tallinn</item>
+    <item>Watykan</item>
+    <item>Vienna</item>
+    <item>Wilno</item>
+    <item>Warszawa</item>
+    <item>Zagrzeb</item>
+    <item>Zurych</item>
+    <item>Antananarivo</item>
+    <item>Malediwy</item>
+    <item>Mauritius</item>
+    <item>Auckland</item>
+    <item>Fiji</item>
+    <item>Guam</item>
+    <item>Honolulu</item>
+    <item>Kiritimati</item>
+    <item>Noumea</item>
+    <item>Samoa</item>
+    <item>Tahiti</item>
+    <item>Antigua</item>
+    <item>Austin</item>
+    <item>Boston</item>
+    <item>Calgary</item>
+    <item>Columbus</item>
+    <item>Dallas</item>
+    <item>Knoxville</item>
+    <item>Memphis</item>
+    <item>Miami</item>
+    <item>Minneapolis</item>
+    <item>Ottawa</item>
+    <item>Philadelphia</item>
+    <item>Portland</item>
+    <item>San Diego</item>
+    <item>San Francisco</item>
+    <item>Salt Lake City</item>
+    <item>San Jose</item>
+    <item>Seattle</item>
+    <item>St. Louis</item>
+    <item>Washington D.C.</item>
+    <item>Houston</item>
+    <item>San Antonio</item>
+    <item>Jacksonville</item>
+    <item>Baltimore</item>
+    <item>Nashville</item>
+    <item>Milwaukee</item>
+    <item>Oklahoma City</item>
+    <item>Las Vegas</item>
+    <item>Albuquerque</item>
+    <item>Tucson</item>
+    <item>Sacramento</item>
+    <item>Atlanta</item>
+    <item>Cleveland</item>
+    <item>New Orleans</item>
+    <item>Tampa</item>
+    <item>Pittsburgh</item>
+    <item>Cincinnati</item>
+    <item>Mountain View</item>
+    <item>Reno</item>
+    <item>Doha</item>
+    <item>Pekin</item>
+    <item>Mumbai</item>
+    <item>Delhi</item>
+    <item>Osaka</item>
+    <item>Lahore</item>
+    <item>Sana\'a</item>
+    <item>Barcelona</item>
+    <item>Munich</item>
+    <item>Mediolan</item>
+    <item>Frankfurt</item>
+    <item>Hanoi</item>
+    <item>Ankara</item>
+    <item>Bengaluru</item>
+    <item>Brasília</item>
+    <item>Cape Town</item>
+    <item>Islamabad</item>
+    <item>Rio de Janeiro</item>
+    <item>Ann Arbor</item>
+    <item>Boulder</item>
+    <item>Cambridge</item>
+    <item>Kirkland</item>
+    <item>Madison</item>
+    <item>Guangzhou</item>
+    <item>Hyderabad</item>
+    <item>Reston</item>
+    <item>Belo Horizonte</item>
+    <item>Santiago</item>
+    <item>Monrovia</item>
+    <item>Colombo</item>
+    <item>Chihuahua</item>
+    <item>Gurugram</item>
+    <item>Manchester</item>
+    <item>Kijów</item>
+    <item>St. Petersburg</item>
+    <item>Kraków</item>
+    <item>Wrocław</item>
+    <item>Hamburg</item>
+    <item>Oulu</item>
+    <item>Haifa</item>
+    <item>San Juan</item>
+    <item>Tegucigalpa</item>
+    <item>Paramaribo</item>
+    <item>Quito</item>
+  </string-array>
+  <string-array name="debug_hw_renderer_entries">
+    <item>OpenGL (domyślnie)</item>
+    <item>OpenGL (Skia)</item>
+  </string-array>
+  <string-array name="wifi_signal">
+    <item>Słaba</item>
+        <item>Słaba</item>
+        <item>Dostateczna</item>
+        <item>Dobra</item>
+        <item>Doskonała</item>
+  </string-array>
+  <string-array name="wifi_wapi_key_type">
+    <item>WAPI ASCII</item>
+    <item>WAPI szesnastkowe</item>
+  </string-array>
+</resources>

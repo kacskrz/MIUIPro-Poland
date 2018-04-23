@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="app_notification_listing_summary_others">
+    <item quantity="other">Wyłączono dla %d aplikacji</item>
+    <item quantity="one">"Wyłączono dla %d aplikacji"</item>
+  </plurals>
+  <plurals name="default_camera_app_title">
+    <item quantity="other">Aplkacji Aparat</item>
+    <item quantity="one">Aplikacja Aparat</item>
+  </plurals>
+  <plurals name="default_email_app_title">
+    <item quantity="other">Klienta poczty e-mail</item>
+    <item quantity="one">Klient poczty e-mail</item>
+  </plurals>
+  <plurals name="default_phone_app_title">
+    <item quantity="other">Aplikacji Telefon</item>
+    <item quantity="one">Aplikacja Telefon</item>
+  </plurals>
+  <plurals name="deleted_channels">
+    <item quantity="other">Usunięto %d kategorii</item>
+    <item quantity="other">Usunięto %d kategorię</item>
+  </plurals>
+  <plurals name="domain_urls_apps_summary_on">
+    <item quantity="other">%d aplikacji otwiera obsługiwane linki</item>
+    <item quantity="one">Jedna aplikacja otwiera obsługiwane linki</item>
+  </plurals>
+  <plurals name="enterprise_privacy_number_ca_certs">
+    <item quantity="other">Co najmniej %d certyfikatu urzędu certyfikacji</item>
+    <item quantity="one">Co najmniej %d certyfikat urzędu certyfikacji</item>
+  </plurals>
+  <plurals name="enterprise_privacy_number_failed_password_wipe">
+    <item quantity="other">%d próby</item>
+    <item quantity="one">%d próba</item>
+  </plurals>
+  <plurals name="enterprise_privacy_number_packages">
+    <item quantity="other">%d aplikacji</item>
+    <item quantity="one">%d aplikacja</item>
+  </plurals>
+  <plurals name="enterprise_privacy_number_packages_lower_bound">
+    <item quantity="other">Co najmniej %d aplikacji</item>
+    <item quantity="one">Co najmniej %d aplikacja</item>
+  </plurals>
+  <plurals name="hours">
+    <item quantity="other">%s godziny</item>
+    <item quantity="one">1 godzina</item>
+  </plurals>
+  <plurals name="manage_trust_agents_summary_on">
+    <item quantity="other">%d aktywnego agenta zaufania</item>
+    <item quantity="one">1 aktywny agent zaufania</item>
+  </plurals>
+  <plurals name="master_clear_with_account_summary">
+    <item quantity="other">%1$d kont zostanie zresetowanych</item>
+    <item quantity="one">1 konto zostanie zresetowane</item>
+  </plurals>
+  <plurals name="minutes">
+    <item quantity="other">%s minuty</item>
+    <item quantity="one">1 minuta</item>
+  </plurals>
+  <plurals name="network_restrictions_summary">
+    <item quantity="other">%1$d ograniczenia</item>
+    <item quantity="one">1 ograniczenie</item>
+  </plurals>
+  <plurals name="number_of_device_admins">
+    <item quantity="other">%d aktywnych aplikacji</item>
+    <item quantity="one">%d aktywna aplikacja</item>
+  </plurals>
+  <plurals name="print_settings_summary">
+    <item quantity="other">%1$d usługi drukowania włączone</item>
+    <item quantity="one">1 usługa drukowania włączona</item>
+  </plurals>
+  <plurals name="seconds">
+    <item quantity="other">%s sekundy</item>
+    <item quantity="one">1 sekunda</item>
+  </plurals>
+  <plurals name="settings_suggestion_header_summary_hidden_items">
+    <item quantity="other">Pokaż %d ukrytych elementów</item>
+    <item quantity="one">Pokaż %d ukryty element</item>
+  </plurals>
+  <plurals name="special_access_summary">
+    <item quantity="other">%d aplikacji może używać nieograniczonej ilości danych</item>
+    <item quantity="one">1 aplikacja może używać nieograniczonej ilości danych</item>
+  </plurals>
+  <plurals name="wifi_saved_access_points_summary">
+    <item quantity="other">%d sieci</item>
+    <item quantity="one">1 sieć</item>
+  </plurals>
+  <plurals name="zen_mode_settings_summary_on">
+    <item quantity="other">Włączone %d automatyczne reguły</item>
+    <item quantity="one">Włączona 1 automatyczna reguła</item>
+  </plurals>
+</resources>
