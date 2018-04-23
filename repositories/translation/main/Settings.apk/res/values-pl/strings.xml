@@ -5527,4 +5527,5 @@ Wybierz swój system operacyjny:"</string>
   <string name="close_optimization_option">Wyłącz</string>
   <string name="open_optimization_message">Włącz optymalizację, aby cieszyć się płynniejszym i szybszym interfejsem.</string>
   <string name="open_optimization_option">Włącz</string>
+  <string name="game_mode_settings">Tryb gracza</string>
 </resources>

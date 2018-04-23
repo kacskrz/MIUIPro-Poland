@@ -2191,4 +2191,15 @@
   <string name="gb_msg_transparent_dispaly">Powiadomienia z przezroczystym tłem</string>
   <string name="gb_msg_transparent_dispaly_summary">Przezroczystość</string>
   <string name="managed_user_title">Pracujące aplikacje</string>
+  <string name="adjust_sms_cmd">&lt;u&gt;Dostosuj szablon kalibracji SMS&lt;/u&gt;</string>
+  <string name="dialog_roaming_warning_checkbox">"Nie pokazuj ponownie"</string>
+  <string name="dialog_roaming_warning_message">Po włączeniu transmisji danych w roamingu międzynarodowym operator naliczy opłatę. Włączyć mimo to?</string>
+  <string name="dialog_roaming_warning_ok">Włącz</string>
+  <string name="sms_detail_correct_success_text">"Oto statystyki wykorzystania danych z poprzedniej kalibracji (%1$s):"</string>
+  <string name="tc_cmd_invalid">Szablon jest niewłaściwy</string>
+  <string name="tc_get_cmd_error">"Nie można pobrać szablonu"</string>
+  <string name="tc_parse_error">"Nie można przeanalizować wiadomości SMS"</string>
+  <string name="tc_receive_timeout">Kalibracja przekroczyła limit czasu</string>
+  <string name="tc_send_sms_error">"Nie można wysłać SMS"</string>
+  <string name="tc_web_correct_error">"Nie udało się skalibrować"</string>
 </resources>
