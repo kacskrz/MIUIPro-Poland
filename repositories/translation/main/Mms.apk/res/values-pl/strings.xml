@@ -658,4 +658,18 @@ Ostatnia próba: %s."</string>
     <string name="wild_msg_title">Wybierz nr do synchronizacji</string>
     <string name="yes">OK</string>
     <string name="yesterday">Wczoraj</string>
+	<string name="button_emoji_creature">Zwierzęce emoji</string>
+	<string name="button_emoji_lifestyle">Emoji z życia</string>
+	<string name="button_emoji_smiley">Emoji twarzy</string>
+	<string name="button_emoji_symbol">Emoji - symbole</string>
+	<string name="button_emoji_text">Emoji tekstowe</string>
+	<string name="button_fold">Zwiń</string>
+	<string name="button_next_slide">Dalej</string>
+	<string name="button_pre_slide">Poprzedni</string>
+	<string name="button_resend_message">Send again</string>
+	<string name="button_unfold">Rozwiń</string>
+	<string name="dialog_message_fake_cell_detect_error">Poprawić informacje o tej wiadomości? Aby to zrobić, MIUI musi przesłać na swoje serwery numer telefonu (%1$s), treść wiadomości oraz informacje o pobliskiej lokalizacji.</string>
+	<string name="dialog_title_fake_cell_detect_error">Wprowadzenie poprawek</string>
+	<string name="draft">Projekt</string>
+	<string name="fake_cell_alert_detect_error">"To nie zostało wysłane z fałszywego BTSa"</string>
 </resources>

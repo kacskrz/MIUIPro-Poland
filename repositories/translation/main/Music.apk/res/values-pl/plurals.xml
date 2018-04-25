@@ -10,6 +10,12 @@
     <item quantity="one">Usunąć %d element?</item>
     <item quantity="few">Usunąć %d elementy?</item>
   </plurals>
+  <plurals name="dialog_confirm_delete_downloads_message_with_file">
+    <item quantity="other">"Usunąć %d elementów?
+Uwaga: Pliki zostaną usunięte również z tego urządzenia."</item>
+    <item quantity="one">"Usunąć %d element?
+Uwaga: Pliki zostaną usunięte również z tego urządzenia."</item>
+  </plurals>
   <plurals name="dialog_delete_descript">
     <item quantity="other">Usunąć %d utworów?</item>
     <item quantity="one">Usunąć %d utwór?</item>

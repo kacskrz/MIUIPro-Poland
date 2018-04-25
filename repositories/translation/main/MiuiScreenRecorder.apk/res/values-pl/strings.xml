@@ -71,4 +71,15 @@
     <string name="stop_record_while_locking_summary">Zakończ i zapisz nagrywanie, gdy ekran zostaje zablokowany</string>
     <string name="stop_recording">Zatrzymaj nagrywanie</string>
     <string name="timer_format">%s</string>
+	<string name="cannot_change_frames">Liczba klatek na sekundę może być dostosowana tylko do nagrań ze stałą szybkością klatek.</string>
+  <string name="close_screen_record">Zatrzymano nagrywanie</string>
+  <string name="fixed_frame_rate">Naprawiono szybkość klatek</string>
+  <string name="fixed_frame_rate_summary">Nagrywanie filmów ze stałą liczbą klatek poprawia odtwarzanie na platformach społecznościowych i zmniejsza żywotność baterii.</string>
+  <string name="is_checked">Wybrano</string>
+  <string name="is_go_home">Wróć do Nagrywania ekranu</string>
+  <string name="is_go_home_summary">"Otwórz stronę startową Nagrywania ekranu po zatrzymaniu nagrania"</string>
+  <string name="settings">Ustawienia</string>
+  <string name="storage_location">Pamięć</string>
+  <string name="storage_location_summary">Wybierz preferowaną opcję zapisu nagrań</string>
+  <string name="unchecked">Nie wybrano</string>
 </resources>

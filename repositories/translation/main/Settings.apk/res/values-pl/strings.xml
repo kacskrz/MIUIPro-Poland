@@ -328,7 +328,7 @@
     <string name="privacy_authorize_revoke_time">Unieważnij (%1$ds)</string>
     <string name="privacy_authorize_title">Udzielanie autoryzacji</string>
     <string name="privacy_authorize_privacy_policy">Polityką prywatności</string>
-    <string name="privacy_authorize_dialog_message">%1$s wymaga abyś przeczytał i zgodził się z naszą %2$s. Aplikacja wymaga połączenia z internetem do poprawnej pracy. Zgadzasz się?</string>
+    <string name="privacy_authorize_dialog_message">&lt;Data&gt;"Aby korzystać z podstawowych funkcji tej usługi, musisz się zgodzić na to, że Xiaomi będzie gromadzić, przetwarzać i wykorzystywać Twoje dane osobowe. Zapoznaj się z naszą Polityką prywatności, aby dowiedzieć się, jak zbieramy i przetwarzamy dane osobowe. Wybierając \"Zgadzam się\" potwierdzasz, że przeczytałeś i zgadzasz się z &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Polityką Prywatności&amp;lt;/a&amp;gt; oraz &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Zgodą Użytkownika&amp;lt;/a&amp;gt;.&amp;#8203;"&lt;/Data&gt;</string>
     <string name="privacy_authorize_dialog_exit">Wyjdź</string>
     <string name="privacy_authorize_dialog_agree">Zgadzam się</string>
     <string name="privacy_authorize_network_error">Połącz z siecią i spróbuj ponownie.</string>
@@ -5528,4 +5528,9 @@ Wybierz swój system operacyjny:"</string>
   <string name="open_optimization_message">Włącz optymalizację, aby cieszyć się płynniejszym i szybszym interfejsem.</string>
   <string name="open_optimization_option">Włącz</string>
   <string name="game_mode_settings">Tryb gracza</string>
+  <string name="mqs_privacy_automatically_upload">Prześlij automatycznie następnym razem</string>
+  <string name="mqs_privacy_dialog_cancel">Zakończ</string>
+  <string name="mqs_privacy_dialog_confirm">Prześlij</string>
+  <string name="mqs_privacy_dialog_content">Czy chcesz przesłać dzienniki, aby pomóc nam zlokalizować i rozwiązać ten problem? Dzienniki mogą zawierać Twoje dane osobowe, w tym informacje o Twojej lokalizacji.</string>
+  <string name="mqs_privacy_dialog_title">Wystąpił błąd</string>
 </resources>

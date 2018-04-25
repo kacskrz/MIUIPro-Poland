@@ -2,10 +2,10 @@
 <resources>
   <string name="account">Konto</string>
   <string name="account_and_cloud">Konto</string>
-  <string name="action_item_add">Dodaj</string>
+  <string name="action_item_add">Dodaj do</string>
   <string name="action_item_add_song">Dodaj do listy odtwarzania</string>
-  <string name="action_item_add_to_current_playlist">Aktualna playlista</string>
-  <string name="action_item_add_to_favorite_playlist">Ulubiona playlista</string>
+  <string name="action_item_add_to_current_playlist">Kolejka odtwarzania</string>
+  <string name="action_item_add_to_favorite_playlist">Ulubione</string>
   <string name="action_item_add_to_new_playlist">Nowa</string>
   <string name="action_item_as_ring">Ustaw jako dzwonek</string>
   <string name="action_item_cancel">Zakończ</string>
@@ -18,7 +18,7 @@
   <string name="action_item_hifi">Opcje dźwięku</string>
   <string name="action_item_modify_info">Modyfikuj informacje</string>
   <string name="action_item_multiple">Edytuj</string>
-  <string name="action_item_play_all">Odtwórz wszystko</string>
+  <string name="action_item_play_all">Odtwarzaj losowo</string>
   <string name="action_item_play_next">Odtwórz później</string>
   <string name="action_item_remove">Usuń</string>
   <string name="action_item_remove_from_favorite">Usuń z Ulubionych</string>
@@ -31,8 +31,8 @@
   <string name="ad_data_exception">Błąd danych reklam</string>
   <string name="ad_extension">Promocja</string>
   <string name="ad_mark">REKLAMA</string>
-  <string name="ad_recommend">Propozycje</string>
-  <string name="ad_setting">Ustawienia reklam</string>
+  <string name="ad_recommend">Otrzymuj rekomendacje</string>
+  <string name="ad_setting">Dodatkowe ustawienia</string>
   <string name="add_music">Dodaj utwory</string>
   <string name="add_to_last_of_playlist">Dodaj na końcu listy odtwarzania</string>
   <string name="add_to_playlist_successful">Pomyślnie dodano</string>
@@ -41,6 +41,8 @@
   <string name="album_label">Okładki albumów</string>
   <string name="album_name">Album</string>
   <string name="album_search_title">Album</string>
+  <string name="all_album_count">Wszystkie albumy (%d)</string>
+  <string name="all_playlist_count">Wszystkie playlisty (%d)</string>
   <string name="all_artist">Wszyscy artyści</string>
   <string name="all_downloads">Wszystkie pobrania</string>
   <string name="all_fileter">Wszystko</string>
@@ -50,6 +52,7 @@
   <string name="already_download">Pobieranie…</string>
   <string name="already_download_btn">Pobieranie…</string>
   <string name="already_favorited">To już zostało oznaczone jako ulubione</string>
+  <string name="always_use_metered">Zawsze używaj danych mobilnych</string>
   <string name="android_sdk_too_low">Zaktualizuj Androida, aby móc zaktualizować Muzykę.</string>
   <string name="apk_filter">APK</string>
   <string name="app_downloads">%s pobrań</string>
@@ -103,6 +106,11 @@
   <string name="being_enable_auto_payment">Włączanie…</string>
   <string name="bill_list_fragment_title">Charts</string>
   <string name="bluetooth_device">Urządzenie Bluetooth</string>
+  <string name="browser_error">Tymczasowo niedostępne, prosimy spróbować później</string>
+  <string name="btn_earlier_items">Załaduj ostatnie wiadomości</string>
+  <string name="btn_earlier_items_progress">Ładowanie ostatnich wiadomości…</string>
+  <string name="btn_more_items">Załaduj więcej wiadomości</string>
+  <string name="btn_more_items_progress">Ładowanie więcej wiadomości…</string>
   <string name="buffering">Buforowanie…</string>
   <string name="button_add">Dodaj</string>
   <string name="button_cancel_download">Anuluj</string>
@@ -142,6 +150,7 @@
   <string name="comment_ref_format">%1$s: %2$s</string>
   <string name="comment_ref_reply_format">Reply to @%1$s: %2$s</string>
   <string name="confirm">OK</string>
+  <string name="confirm_exit">Twoje zmiany nie zostały zapisane. Czy chcesz je zapisać?</string>
   <string name="confirm_download">Pobierz</string>
   <string name="confirm_to_renew">Odnów</string>
   <string name="connecting_apk">Łączenie…</string>
@@ -209,6 +218,7 @@
   <string name="dialog_song_view_type_folder">Wg folderu</string>
   <string name="dialog_song_view_type_song">Wg utworu</string>
   <string name="dialog_title_add_playlist">Dodaj playlistę</string>
+  <string name="dialog_title_clearlist_tracks">Usuń z kolejki odtwarzania</string>
   <string name="dialog_title_delete_tracks">Usuń</string>
   <string name="dialog_title_name_playlist">Nazwa playlisty</string>
   <string name="dialog_title_not_available">Nie udało się pobrać</string>
@@ -221,6 +231,7 @@
   <string name="disable_auto_payment_success_message">Automatyczne odnawianie jest wyłączone. Po wygaśnięciu aktualnej subskrypcji, będziesz musiał ponownie subskrybować, aby pobierać utwory.</string>
   <string name="disallow_add_to_fm">Nie można dodać utworów do radia FM</string>
   <string name="disallow_add_to_personal_radio">Tylko do odczytu</string>
+  <string name="do_not_remind_this_version">Nie przypominaj o tej wersji</string>
   <string name="doc_filter">Dokumenty</string>
   <string name="done">Ukończone</string>
   <string name="download">Pobierz</string>
@@ -319,6 +330,8 @@
   <string name="enable_auto_payment_success_message">Automatyczne odnawianie jest włączone. Następna płatność do %s.</string>
   <string name="enabled">Włączone</string>
   <string name="enter_garbage_clean">Zwolnij miejsce w pamięci urządzenia.</string>
+  <string name="err_media_handle">Niestety, nie udało się pobrać mediów. Prosimy spróbować ponownie.</string>
+  <string name="err_offline_on_playback">Niestety, aby odtwarzać te media, musisz być online.</string>
   <string name="eq_auto">Własne</string>
   <string name="eq_blues">Blues</string>
   <string name="eq_classical">Klasyka</string>
@@ -345,6 +358,7 @@
   <string name="error_unauthorized">Synchr. wyłączona: zbyt dużo prób logowania</string>
   <string name="expired">Wygasłe</string>
   <string name="expires">Wygasa w miesiącu:</string>
+  <string name="facebook_not_installed">Najpierw zainstaluj aplikację Facebook.</string>
   <string name="fail_to_play">Nie można odtworzyć</string>
   <string name="favorite_canceled">Usunięto z Ulubionych</string>
   <string name="favorite_playlist">Ulubione</string>
@@ -422,6 +436,10 @@
   <string name="home_tab_local">Moja Muzyka</string>
   <string name="home_tab_online">Online</string>
   <string name="hot_icon_in_fast_indexer">G</string>
+  <string name="hungama_pro">Hungama Pro</string>
+  <string name="hungama_subscribe_message">Cześć! Przejdź do Pro, aby pobrać ten utwór oraz wszystkie inne swoje ulubione piosenki. Uzyskaj swoją muzykę w fantastycznej jakości dźwięku.</string>
+  <string name="hungama_subscribe_positive_button">Przejdź do PRO</string>
+  <string name="hungama_subscribe_title">Usługa PRO</string>
   <string name="i_know">Zgadzam się</string>
   <string name="i_know_it">OK</string>
   <string name="impunity_declaration_content">Musisz zgodzić się na %1$s i %2$s przed użyciem tego produktu.</string>
@@ -475,6 +493,7 @@
   <string name="local_page_song_download_history">Pobrania</string>
   <string name="local_page_song_favorite">Ulubione utwory</string>
   <string name="local_tracks_short">Offline</string>
+  <string name="long_press_to_select_lyric">Dotknij i przytrzymaj, aby wybrać lokalny plik z tekstem</string>
   <string name="lrc_search_failed">Nie udało się wyszukać tekstu</string>
   <string name="lrc_searching">Wyszukiwanie…</string>
   <string name="lyric">Teksty utworów</string>
@@ -493,12 +512,15 @@
   <string name="menu_title_resume_all">Rozpocznij wszystko</string>
   <string name="menu_title_settings">Ustawienia</string>
   <string name="message_delete_playlist">Usunąć listę odtwarzania %s?</string>
+  <string name="message_ws_response_error">Wystąpił problem z przetwarzaniem Twojego żądania i/lub odpowiedzi serwera</string>
   <string name="metered_alert">Ostrzeżenie o użyciu danych</string>
   <string name="metered_alert_msg">Korzystasz z danych mobilnych do odtwarzania utworów. Kontynuować?</string>
   <string name="metered_alert_msg_with_data">Pozostało %s danych mobilnych. Nadal korzystać z danych mobilnych do odtwarzania utworów?</string>
   <string name="metered_allow">Odtwórz</string>
   <string name="metered_beyond_alert">Limit transmisji danych został przekroczony</string>
   <string name="metered_disallow">Nie teraz</string>
+  <string name="metered_play_and_download_summary">Jeśli otwarte, nie przypominaj, kiedy odtwarzasz i pobierasz</string>
+  <string name="metered_play_and_download_title">Zawsze używaj danych mobilnych</string>
   <string name="metered_play_toast">Używasz danych mobilnych do odtwarzania utworów</string>
   <string name="metered_play_toast_with_beyond_data">Korzystasz z danych mobilnych do odtwarzania utworów. Przekroczono limit o %s</string>
   <string name="metered_play_toast_with_data">Korzystasz z danych mobilnych do odtwarzania utworów, %s pozostało</string>
@@ -529,6 +551,7 @@
   <string name="mobile_recommended_title">Użycie danych mobilnych</string>
   <string name="modify_info_disable_note">Jeśli chcesz edytować informacje ręcznie, wyłącz najpierw \"Znajdowanie okładek albumów i tekstów utworów\".</string>
   <string name="modify_lyric">Edytuj teksty</string>
+  <string name="modify_pic">Zmień cover</string>
   <string name="modify_progress">Zmień prędkość przesuwania tekstu</string>
   <string name="modify_progress_helper">Przesuń w górę lub w dół aby dostosować prędkość tekstu</string>
   <string name="modify_song_info">Edytuj informacje utworu</string>
@@ -536,7 +559,7 @@
   <string name="monthly_price">Mi Kredyty</string>
   <string name="more">Więcej</string>
   <string name="more_about_artist">Więcej o %s</string>
-  <string name="more_add_song_list">Dodaj do aktualnej listy odtwarzania</string>
+  <string name="more_add_song_list">Dodaj piosenki do kolejki</string>
   <string name="more_online_artist">Więcej</string>
   <string name="more_online_billboard">Więcej</string>
   <string name="more_online_fm">Więcej</string>
@@ -575,6 +598,7 @@
   <string name="no_album_info">Brak informacji o albumie</string>
   <string name="no_artist_info">Brak informacji o wykonawcy</string>
   <string name="no_downloads">Brak pobrań</string>
+  <string name="no_duration">--:--</string>
   <string name="no_enough_info">Za mało informacji o utworze</string>
   <string name="no_favorites_songs">Pusto</string>
   <string name="no_file_picker_find">Explorer plików nie jest zainstalowany na tym urządzeniu</string>
@@ -587,10 +611,13 @@
   <string name="no_scanned_songs">Brak plików</string>
   <string name="no_song">Brak utworów</string>
   <string name="no_song_downloaded">Nie można połączyć z serwerem</string>
+  <string name="no_song_subtitle">Zanurz się w dźwięku</string>
+  <string name="no_song_title">Mi Muzyka</string>
   <string name="no_system_cropper_find">System nie ma możliwości przycięcia obrazu</string>
   <string name="normal_quality">Dobra</string>
   <string name="not_login">Nie wpisano się</string>
   <string name="not_selected">Wybierz utwór</string>
+  <string name="nothing_changed_toast">"Jeszcze niczego nie zmieniłeś."</string>
   <string name="notif_text_engine_off">Xunlei accelerator is off.</string>
   <string name="notif_text_engine_on">Accelerating…</string>
   <string name="notif_title_file_size">Razem %1$d</string>
@@ -609,8 +636,8 @@
   <string name="nowplaying_circle_style">Styl przycisku Odtwarzanie</string>
   <string name="nowplaying_circle_style_rainbow">Tęcza</string>
   <string name="nowplaying_circle_style_wave">Fala</string>
-  <string name="nowplaying_dialog_title_delete_tracks">Wyczyścić aktualną listę odtwarzania?</string>
-  <string name="nowplaying_menu_item_delete">Wyczyść</string>
+  <string name="nowplaying_dialog_title_delete_tracks">Usunąć tą piosenkę z kolejki?</string>
+  <string name="nowplaying_menu_item_delete">Usuwanie z kolejki</string>
   <string name="ok">OK</string>
   <string name="one_month">1 miesiąc</string>
   <string name="online_bill">Charts</string>
@@ -658,11 +685,15 @@
   <string name="permission_declaration_positive_text">Przejdź do Panelu Sterowania</string>
   <string name="permission_declaration_title">Zezwól na dostęp</string>
   <string name="play_all_song">Odtwórz wszystko</string>
+  <string name="play_empty_playlist">"Nie można odtworzyć piosenek. Playlista jest pusta."</string>
   <string name="play_next">Odtwórz następny</string>
   <string name="playback_failed_no_title_by_bad_file">Ten format piosenki nie jest obsługiwany bądź plik nie istnieje.</string>
   <string name="playlist_deleted_message">Usunięto playlistę</string>
   <string name="playlist_empty">Nie znaleziono list odtwarzania.</string>
   <string name="playlist_renamed_message">Zmieniono nazwę playlisty</string>
+  <string name="playlist_title">Nazwa playlisty</string>
+  <string name="playlist_title_is_empty">"Nazwa playlisty nie może być pusta"</string>
+  <string name="playlist_title_is_invalid">Playlista już istnieje</string>
   <string name="playlist_type_album">Albumy</string>
   <string name="playlist_type_artist">Wykonawca</string>
   <string name="playlist_type_billboard">Wykresy</string>
@@ -698,6 +729,7 @@
   <string name="pulluprefreshrecyclerview_loading_error">Nie udało się załadować</string>
   <string name="pulluprefreshrecyclerview_loading_finished">Pomyślnie wczytano</string>
   <string name="pulluprefreshrecyclerview_loading_running">Ładowanie…</string>
+  <string name="queue_is_empty">Kolejka odtwarzania jest pusta.</string>
   <string name="radar">ACRCloud</string>
   <string name="radar_click_to_retry">Dotknij, aby spróbować ponownie</string>
   <string name="radar_fail">Brak wyników</string>
@@ -748,6 +780,7 @@
   <string name="ringtone_not_support">Format pliku nie jest wspierany</string>
   <string name="root_downloads">Pobrania</string>
   <string name="save">Zapis</string>
+  <string name="save_changes">Zapisz zmiany</string>
   <string name="save_to_playlist">Zapisz w playliście</string>
   <string name="search_album_and_lyric">Wyszukaj okładki albumów i teksty utworów</string>
   <string name="search_empty">Nie udało się nic znaleźć</string>
@@ -757,6 +790,7 @@
   <string name="search_hint_not_support_online">Szukaj wśród utworów, artystów i albumów</string>
   <string name="search_history_clear_all">Wyczyść</string>
   <string name="search_instant_online_music">Online</string>
+  <string name="search_songs_count">Utwory: %d</string>
   <string name="search_title">Szukaj</string>
   <string name="search_title_album">Albumy</string>
   <string name="search_title_singer">Artyści</string>
@@ -767,13 +801,16 @@
   <string name="select_device">Wybierz urządzenie</string>
   <string name="select_displayed_folders">Katalogi z muzyką</string>
   <string name="select_local_album">Wybierz z pliku</string>
-  <string name="select_local_lyric">Wybierz teksty utworów</string>
+  <string name="select_local_cover">Wybierz lokalny cover</string>
+  <string name="select_local_lyric">Wybierz tekst utworu</string>
+  <string name="select_local_lyric_file">Wybierz lokalny plik z tekstem</string>
   <string name="select_none">Odznacz</string>
   <string name="select_operation_items">Wybierz elementy</string>
   <string name="selected_count">Wybrano %1$d z %2$d</string>
   <string name="send_comment">Comment</string>
   <string name="send_to">Podziel się</string>
   <string name="send_to_title">Wyślij do (%1$s)</string>
+  <string name="server_connection_failed">Niestety, musisz być online, aby używać tej funkcji</string>
   <string name="server_error">Wystąpił błąd. Poczekaj minutę lub dwie i spróbuj ponownie.</string>
   <string name="service_and_settings">Usługi i ustawienia</string>
   <string name="service_stop">Service discontinued</string>
@@ -820,7 +857,7 @@
   <string name="sleep_mode_canceled">Uśpienie anulowane</string>
   <string name="sleep_mode_summary">Ustaw czas wyłączenia odtwarzania</string>
   <string name="sleep_mode_title">Uśpienie odtwarzania</string>
-  <string name="song_exist_in_playlist">Utwór znajduje się już na liście odtwarzania</string>
+  <string name="song_exist_in_playlist">Utwór znajduje się już w kolejce</string>
   <string name="song_is_empty">Nazwa utworu nie może być pusta.</string>
   <string name="song_name">Utwór</string>
   <string name="song_not_find">Utwór jest niedostępny</string>
@@ -884,7 +921,7 @@
   <string name="text_separator">|</string>
   <string name="ticket_summary">Kup bilety na przedstawienia, koncerty, sztuki i inne wydarzenia</string>
   <string name="ticket_title">Pokaż bilety</string>
-  <string name="time_to_upgrade">Aktualizuj Muzykę</string>
+  <string name="time_to_upgrade">Dostępne są aktualizacje</string>
   <string name="title_online_artist">Artyści będący na topie</string>
   <string name="title_online_billboard">Charts</string>
   <string name="title_online_fm">Radio</string>
@@ -958,4 +995,6 @@
   <string name="welcome_to_new_music">Witaj w nowej wersji Mi Muzyki</string>
   <string name="wifi_required_body" formatted="false">Połącz się z Wi-Fi, aby zakończyć pobieranie %s. \n\nDotknij %s, aby rozpocząć pobieranie przy połączeniu z siecią Wi-Fi.</string>
   <string name="wifi_required_title">Należy połączyć się przez Wi-Fi, aby pobrać ten plik</string>
+  <string name="session_create_error">Server returned SESSION CREATE ERROR code, please contact SDK developers!</string>
+  <string name="signup_type_user_default">LoginSDK consumer</string>
 </resources>
