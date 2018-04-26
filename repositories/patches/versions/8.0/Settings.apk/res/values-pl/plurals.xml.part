@@ -18,7 +18,7 @@
   </plurals>
   <plurals name="deleted_channels">
     <item quantity="other">Usunięto %d kategorii</item>
-    <item quantity="other">Usunięto %d kategorię</item>
+    <item quantity="one">Usunięto %d kategorię</item>
   </plurals>
   <plurals name="domain_urls_apps_summary_on">
     <item quantity="other">%d aplikacji otwiera obsługiwane linki</item>
