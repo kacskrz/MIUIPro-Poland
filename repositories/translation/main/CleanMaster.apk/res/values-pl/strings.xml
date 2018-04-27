@@ -528,4 +528,12 @@
   <string name="wqfile_group_chat_voice">Wiadomości głosowe</string>
   <string name="year_month_day_format">dd MMM, yyyy</string>
   <string name="yesterday">Wczoraj</string>
+  <string name="menu_open">Otwórz</string>
+  <string name="tips_low_storage_dialog_cancel">Nie, dzięki</string>
+  <string name="tips_low_storage_dialog_msg_qq">Rozmiar pamięci podręcznej aplikacji QQ osiągnął 3GB. Może on spowolnić działanie Twojego urządzenia. Czy chcesz wyczyścić tą pamięć teraz?</string>
+  <string name="tips_low_storage_dialog_msg_storage">"Używasz już 90% miejsca w pamięci swojego telefonu. Odinstaluj aplikacje, których nie używasz."</string>
+  <string name="tips_low_storage_dialog_msg_wechat">Rozmiar pamięci podręcznej aplikacji WeChat osiągnął 3GB. Może on spowolnić działanie Twojego urządzenia. Czy chcesz wyczyścić tą pamięć teraz?</string>
+  <string name="tips_low_storage_dialog_ok">Wyczyść</string>
+  <string name="tips_low_storage_dialog_ok_storage">Zwolnij miejsce</string>
+  <string name="tips_low_storage_dialog_title">Powoli brakuje pamięci</string>
 </resources>

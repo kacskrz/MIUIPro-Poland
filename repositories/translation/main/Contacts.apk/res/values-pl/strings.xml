@@ -1229,4 +1229,5 @@ Aby rozpocząć, dotknij ikony Scalania na dole swojego ekranu."</string>
 	<string name="sdnContacts_empty">Brak SDN</string>
 	<string name="sdnContacts_emptyLoading">Ładowanie SDN…</string>
 	<string name="special_code_security_exception">Operacja odrzucona:niedomyślny dialer</string>
+	<string name="no_setting_menu">Brak dostępnego menu ustawień</string>
 </resources>

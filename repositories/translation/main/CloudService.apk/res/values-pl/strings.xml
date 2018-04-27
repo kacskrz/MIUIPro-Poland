@@ -290,7 +290,7 @@
   <string name="micloud_main_head_menu_recycle_bin_title">Usunięte elementy</string>
   <string name="micloud_main_head_menu_state_close">Wyłączona</string>
   <string name="micloud_main_head_menu_state_open">Włączona</string>
-  <string name="micloud_main_head_menu_state_unavailable">Niedostępna</string>
+  <string name="micloud_main_head_menu_state_unavailable">Niewspierana</string>
   <string name="micloud_main_last_sync_time">Ostatnio zsynchronizowane: %s</string>
   <string name="micloud_main_master_sync_on">Włącz synchronizację</string>
   <string name="micloud_main_memory_low_message">Usuń stare dane w celu dalszej synchronizacji.</string>

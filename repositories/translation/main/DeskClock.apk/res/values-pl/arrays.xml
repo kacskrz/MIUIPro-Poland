@@ -85,13 +85,15 @@
         <item>Dziś</item>
         <item>Jutro</item>
     </string-array>
-    <string-array name="weather_tips_value">
+	<string-array name="weather_tips_value">
         <item>Ogranicz aktywność na powietrzu</item>
         <item>Drogi są śliskie</item>
         <item>Możliwe burze, uważaj!</item>
+        <item>"Dziś jest mgliście. Jedź ostroźnie!"</item>
         <item>Powietrze jest zanieczyszczone, noś maskę!</item>
         <item>Weź ze sobą parasol</item>
         <item>Bądź ostrożny na drodze</item>
+        <item>"Dzisiaj może padać grad, bądź ostrożny!"</item>
         <item>Zbliża się burza piaskowa, nałóż maskę!</item>
         <item>Miłego dnia!</item>
     </string-array>
