@@ -142,8 +142,9 @@
         <item>5 fps</item> 
     </string-array> 
 	<string-array name="crt_fade_entries"> 
-        <item>Domyślne</item> 
-        <item>Rozjaśnij</item> 
+        <item>Domyślne</item>
+        <item>Stary telewizor</item> 
+        <item>Skala</item> 
     </string-array> 
 	<string-array name="smart_timer_sleepon_entries">
         <item>Nie aktywuj</item>
