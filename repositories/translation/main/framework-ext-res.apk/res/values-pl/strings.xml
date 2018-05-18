@@ -171,4 +171,5 @@
     <string name="switching_tv">Przełączanie…</string>
     <string name="switch_desc_tv">Dwie przestrzenie. Jedno urządzenie.</string>
     <string name="switch_brand_desc_tv">Usługi bezpieczeństwa dostarczone przez Spaces Mobile</string>
+	<string name="miui_forbid_poweroff_when_device_locked">"Nie można wyłączyć telefonu, urządzenie jest zablokowane."</string>
 </resources>

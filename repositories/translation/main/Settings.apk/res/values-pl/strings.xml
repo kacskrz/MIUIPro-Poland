@@ -5055,7 +5055,7 @@ Wybierz swój system operacyjny:"</string>
     <string name="music_app_unavailable">Upewnij się, że aplikacja Muzyka jest dostępna.</string>
     <string name="lockpassword_confirm_workspace_password">Zweryfikuj hasło przestrzeni roboczej</string>
     <string name="turn_on_keyguard_password_alert_forget_title">Zapamiętaj swoje hasło</string>
-    <string name="turn_on_keyguard_password_alert_forget_content">Zapamiętaj swoje hasło blokady ekranu. Jeśli zapomnisz, będziesz musiał wymazać wszystkie dane na swoim urządzeniu, w tym zdjęcia i kontakty, aby ustanowić nowe.</string>
+    <string name="turn_on_keyguard_password_alert_forget_content">Zapamiętaj swoje hasło blokady ekranu. Jeśli go zapomnisz, możesz łatwo, bez konieczności czyszczenia danych, usunąć odpowiedni plik w TWRP.</string>
     <string name="turn_on_keyguard_password_alert_foget_cacel">Nie teraz</string>
     <string name="turn_on_keyguard_password_alert_foget_ok">Rozumiem</string>
     <string name="turn_on_keyguard_password_alert_foget_ok_time">Rozumiem (%ds)</string>

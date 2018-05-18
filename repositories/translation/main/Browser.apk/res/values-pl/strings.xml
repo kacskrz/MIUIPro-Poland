@@ -724,7 +724,7 @@ Pamiętaj, że pobrane pliki i dodane zakładki będą zapisane."</string>
     <string name="same_folder_name_warning">Grupa o tej nazwie już istnieje</string>
     <string name="save_button_text">Zapisz</string>
     <string name="save_dialog_title">Zapisz</string>
-    <string name="save_file">Zapisz plik %s</string>
+    <string name="save_file">Zapisz</string>
     <string name="save_file_already_exist_alert_message">Plik o tej samej nazwie już istnieje, zastąpić go?</string>
     <string name="save_file_already_exist_alert_title">Zastąpić plik?</string>
     <string name="save_form_data_confirm_message">Wyłączenie tej funkcji może wpłynąć na urządzenie.</string>
@@ -960,4 +960,17 @@ Pamiętaj, że pobrane pliki i dodane zakładki będą zapisane."</string>
   <string name="play_video">Odtwórz wideo</string>
   <string name="popup_video">Wideo pop-up</string>
   <string name="share_video">Podziel się wideo</string>
+  <string name="action_one_touch">Otwórz powiadomienia</string>
+  <string name="action_skip">Pomiń</string>
+  <string name="enter_infoflow_guide">Przesuń w górę, aby zobaczyć wiadomości</string>
+  <string name="hot_words_item_ads_mark">Reklamy</string>
+  <string name="info_flow_description">Kanał informacyjny</string>
+  <string name="message_notice_push">Ostatnie hot spoty już nie znikną!</string>
+  <string name="pref_navscreen_layoutstate_title">Zarządzanie wieloma oknami</string>
+  <string name="refresh_description">Odśwież</string>
+  <string name="suggestion_clear_record_message">Czy potwierdzasz wprowadzenie pustego rekordu?</string>
+  <string name="title_notice_push">Przypomnienie</string>
+  <string name="short_video_description">Kanał wideo</string>
+  <string name="short_video_tip">Zobacz, świetne wideo!</string>
+  <string name="save_file_suffix">plik</string>
 </resources>

@@ -8,8 +8,8 @@
     <string-array name="date_of_traffic">
         <item>"Wczoraj "</item>
         <item>"Dzisiaj "</item>
+        <item>"W ostatnim miesiącu "</item>
         <item>"W tym miesiącu "</item>
-        <item>"This month "</item>
     </string-array>
     <string-array name="date_of_traffic_prefix_cmcc">
         <item>"Ten tydzień: "</item>
@@ -19,8 +19,8 @@
     <string-array name="date_of_traffic_prefix">
         <item>"Wczoraj: "</item>
         <item>"Dzisiaj: "</item>
+        <item>"Ostatni miesiąc: "</item>
         <item>"Ten miesiąc: "</item>
-        <item>"This month: "</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>Wczoraj (dane)</item>
@@ -29,8 +29,8 @@
         <item>Wczoraj (Wi-Fi)</item>
         <item>Dzisiaj (Wi-Fi)</item>
         <item>W tym miesiącu (Wi-Fi)</item>
-        <item>Last month WLAN</item>
-        <item>This month WLAN</item>
+        <item>Ostatni miesiąc (Wi-Fi)</item>
+        <item>Ten miesiąc (Wi-Fi)</item>
     </string-array>
     <string-array name="traffic_type">
         <item>"Dane 3G "</item>
