@@ -18,7 +18,7 @@
     <string name="distance_unit_kilometer">km</string>
     <string name="search_sources">Elementy do przeszukiwania</string>
     <string name="corpus_label_web">Rezultaty z Internetu</string>
-    <string name="corpus_description_web">Bookmarks</string>
+    <string name="corpus_description_web">Zakładki</string>
     <string name="corpus_label_apps">Aplikacje</string>
     <string name="corpus_description_apps">Zainstalowane aplikacje</string>
     <string name="cta_declaration_title">Warunki użytkowania</string>
@@ -32,7 +32,7 @@
     <string name="applications_search_label">Aplikacje</string>
     <string name="settings_description">Nazwy zainstalowanych aplikacji</string>
     <string name="appindex_search_label">Funkcje aplikacji</string>
-    <string name="appindex_description">funkcje z zainstalowanych aplikacji</string>
+    <string name="appindex_description">Funkcje zainstalowanych aplikacji</string>
     <string name="application_desc">Aplikacja</string>
     <string name="web_search_results">Baidu</string>
     <string name="search_group_fold">Ukryj</string>
@@ -50,7 +50,7 @@ Możesz to zmienić w Ustawieniach -> Zainstalowane aplikacje -> Wyszukiwarka"</
     <string name="recent_close_title">Wyłącz funkcjonalność teraz</string>
     <string name="recent_close_content">"Wyłączyć teraz?
 Możesz to zmienić w Ustawieniach -> Zainstalowane aplikacje -> Wyszukiwarka"</string>
-    <string name="entrance_setting">Opening search</string>
+    <string name="entrance_setting">Otwieranie wyszukiwarki</string>
     <string name="swipe_up_title">Przesuń do góry</string>
     <string name="swipe_up_summary">Przesuń do góry, by otworzyć wyszukiwarkę</string>
     <string name="suggest_open_app_failed">"Nie można otworzyć aplikacji"</string>

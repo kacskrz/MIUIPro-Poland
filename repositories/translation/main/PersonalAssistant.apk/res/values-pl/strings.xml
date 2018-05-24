@@ -188,7 +188,7 @@
   <string name="detail_action_report_format_problem">The format is invalid</string>
   <string name="detail_action_settings">Open Settings</string>
   <string name="detail_action_share">Share</string>
-  <string name="detail_title">Favorites</string>
+  <string name="detail_title">Ulubione</string>
   <string name="dialog_cancel_like">Deleted mark successfully</string>
   <string name="dialog_delete_cancel">Cancel</string>
   <string name="dialog_delete_delete">Delete</string>
@@ -445,10 +445,10 @@
   <string name="fav_detail_nodata">Couldn\'t find info</string>
   <string name="fav_download">Download and install this app?</string>
   <string name="fav_init_guide_title">About favorites</string>
-  <string name="fav_label">Favorites</string>
-  <string name="fav_more">All Favorites</string>
+  <string name="fav_label">Ulubione</string>
+  <string name="fav_more">Wszystkie ulubione</string>
   <string name="fav_network_error">Network error</string>
-  <string name="fav_nodata_tip">No favorites</string>
+  <string name="fav_nodata_tip">Brak ulubionych</string>
   <string name="fav_search_nodata_tip">Couldn\'t find results</string>
   <string name="fav_share_fail">Couldn\'t share. You can only add URLs to favorites.</string>
   <string name="fav_success">Added to favorites successfully</string>
@@ -462,7 +462,7 @@
   <string name="fav_tab_new">New</string>
   <string name="fav_tab_shopping">Products</string>
   <string name="fav_tab_video">Videos</string>
-  <string name="favorite">Favorites</string>
+  <string name="favorite">Ulubione</string>
   <string name="favorite_add_home">Add to Home screen</string>
   <string name="favorite_add_home_add">Add</string>
   <string name="favorite_add_home_cancel">Cancel</string>
@@ -473,7 +473,7 @@
   <string name="favorite_clipboard_tip">Add the address from the clipboard to favorites?</string>
   <string name="favorite_delete">Delete</string>
   <string name="favorite_important">Important</string>
-  <string name="favorite_label">Favorites</string>
+  <string name="favorite_label">Ulubione</string>
   <string name="favorite_main">History</string>
   <string name="favorite_title_limit">Enter up to 40 characters</string>
   <string name="favorite_title_modify">Modify</string>
@@ -826,7 +826,7 @@
   <string name="search_clear_header">Remove cover image</string>
   <string name="search_hint">Search in favorites</string>
   <string name="search_label">Searching…</string>
-  <string name="search_setting_description">Titles in favorites</string>
+  <string name="search_setting_description">Tytuły w Ulubionych</string>
   <string name="search_tip">Wyszukiwanie…</string>
   <string name="security">Panel sterowania</string>
   <string name="send_action_title">Add to favorites</string>
@@ -958,7 +958,7 @@
   <string name="system_favorite_dialog_message">Add your favorites from other apps here.</string>
   <string name="system_favorite_dialog_negative">Cancel</string>
   <string name="system_favorite_dialog_positive">Allow</string>
-  <string name="system_favorite_dialog_title_confirm">Favorites</string>
+  <string name="system_favorite_dialog_title_confirm">Ulubione</string>
   <string name="tag_view_nav">tag_view_nav</string>
   <string name="take_off">Take off</string>
   <string name="taxi">Taxi</string>

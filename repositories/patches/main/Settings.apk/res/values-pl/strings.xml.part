@@ -118,7 +118,7 @@
     <string name="battery_level">Zmiana koloru diody (bateria)</string> 
     <string name="low_battery_title">Słaby poziom baterii</string> 
     <string name="critical_battery_title">Krytyczny poziom baterii</string> 
-    <string name="close_battery_title">Przywróć poziom</string> 
+    <string name="close_battery_title">Zerowy poziom baterii</string> 
     <string name="low_battery_percent_summary">Przy: %s procent</string>
     <string name="low_battery_percent_title">Bateria naładowana</string>
     <string name="battery_off_title">Kiedy telefon jest naładowany</string>
@@ -130,7 +130,7 @@
     <string name="volbtn_vol_up_title">Głośność w górę</string> 
     <string name="volbtn_vol_down_title">Głośność w dół</string> 
     <string name="volbtn_timeout_summary">Obecnie: %s ms</string>
-    <string name="status_bar_network_speed_title">Prędkość transferu</string>
+    <string name="status_bar_network_speed_title">Odświeżanie akt. prędkości danych</string>
     <string name="policy_title">Styl ekranu</string>
     <string name="policy_control_title">Tryb pełnego ekranu</string>
     <string name="time_autoexit_title">Wyświetlanie czasu</string>

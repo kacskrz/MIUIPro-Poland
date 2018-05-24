@@ -173,7 +173,7 @@
         <item>MTP, jeśli ekran nie jest zablokowany hasłem</item> 
     </string-array> 
 	<string-array name="volbtn_action_entries"> 
-        <item>Dalej</item> 
+        <item>Następny</item> 
         <item>Pauza</item> 
         <item>Graj</item> 
         <item>Graj / Pauza</item> 

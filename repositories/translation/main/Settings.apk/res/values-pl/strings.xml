@@ -396,7 +396,7 @@
     <string name="status_bar_screen_button_force_immersive_desc">Przesuń w górę od dołu ekranu, aby wyświetlić przyciski ekranowe</string>
     <string name="screen_max_aspect_ratio_title">Tryb pełnoekranowy</string>
     <string name="screen_max_aspect_ratio_desc">Zezwól wybranym aplikacjom na działanie w trybie pełnoekranowym</string>
-    <string name="switch_screen_button_order">Zamień miejscami przyciski</string>
+    <string name="switch_screen_button_order">Zamień przyciski miejscami</string>
     <string name="switch_screen_button_order_desc">Zamień miejscami przyciski Wstecz i Menu</string>
     <string name="unrestrict_max_aspect_ratio_title">Następujące aplikacje są zoptymalizowane do działania w trybie pełnoekranowym</string>
     <string name="suggest_unrestrict_max_aspect_ratio_title">Następujące aplikacje najlepiej działają w trybie pełnoekranowym</string>

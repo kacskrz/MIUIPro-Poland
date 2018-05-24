@@ -666,7 +666,7 @@ Ostatnia próba: %s."</string>
 	<string name="button_fold">Zwiń</string>
 	<string name="button_next_slide">Dalej</string>
 	<string name="button_pre_slide">Poprzedni</string>
-	<string name="button_resend_message">Send again</string>
+	<string name="button_resend_message">Wyślij ponownie</string>
 	<string name="button_unfold">Rozwiń</string>
 	<string name="dialog_message_fake_cell_detect_error">Poprawić informacje o tej wiadomości? Aby to zrobić, MIUI musi przesłać na swoje serwery numer telefonu (%1$s), treść wiadomości oraz informacje o pobliskiej lokalizacji.</string>
 	<string name="dialog_title_fake_cell_detect_error">Wprowadzenie poprawek</string>
