@@ -72,7 +72,7 @@
     <string-array name="screenrecorder_settings_sound">
         <item>Wycisz</item>
         <item>Mikrofon</item>
-        <item>Głośnik</item>
+        <item>System</item>
     </string-array>
     <string-array name="screenrecorder_settings_sound_values">
         <item>0</item>
