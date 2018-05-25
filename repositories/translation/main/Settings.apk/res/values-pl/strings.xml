@@ -1318,7 +1318,7 @@ Wpisany kod PIN może być błędny."</string>
     <string name="device_info_settings">Stan telefonu</string>
     <string name="system_update_settings_list_item_title">Aktualizacje systemu</string>
     <string name="system_update_settings_list_item_summary" />
-    <string name="firmware_version">Wersja Android</string>
+    <string name="firmware_version">Wersja Androida</string>
     <string name="security_patch">Poziom poprawek bezpieczeństwa Android</string>
     <string name="model_number">Oznaczenie modelu</string>
     <string name="fcc_equipment_id">Identyfikator sprzętu</string>
@@ -3713,7 +3713,7 @@ Pomaga to chronić dane na zgubionych lub skradzionych urządzeniach."</string>
     <string name="device_memory">Pamięć RAM</string>
     <string name="device_internal_memory">Pamięć wewnętrzna</string>
     <string name="device_available_memory">Dostępne miejsce</string>
-    <string name="device_total_memory">Całkowita</string>
+    <string name="device_total_memory">Całkowita ilość pamięci</string>
     <string name="device_sd_memory">Karta SD</string>
     <string name="device_cpu2_info">2x</string>
     <string name="device_cpu6_info">6x</string>
@@ -5060,7 +5060,7 @@ Wybierz swój system operacyjny:"</string>
     <string name="turn_on_keyguard_password_alert_foget_ok">Rozumiem</string>
     <string name="turn_on_keyguard_password_alert_foget_ok_time">Rozumiem (%ds)</string>
     <string name="turn_on_keyguard_password_alert">Zapamiętaj swoje hasło. Jeśli zapomnisz, nie będziesz mógł go odzyskać.</string>
-    <string name="turn_on_keyguard_password_alert_choose">Zapamiętaj swoje hasło. Jeśli zapomnisz, będziesz musiał wymazać wszystkie dane na swoim urządzeniu, aby ustanowić nowe.</string>
+    <string name="turn_on_keyguard_password_alert_choose">Zapamiętaj swoje hasło blokady ekranu. Jeśli go zapomnisz, możesz łatwo, bez konieczności czyszczenia danych, usunąć odpowiedni plik w TWRP.</string>
     <string name="add_facerecoginition_text">Dodaj dane twarzy</string>
     <string name="manage_facerecoginition_text">Zarządzaj danymi twarzy</string>
     <string name="face_unlock_enable">Odblokowywanie za pomocą twarzy jest włączone</string>

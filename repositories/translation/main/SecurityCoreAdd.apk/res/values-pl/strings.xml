@@ -262,11 +262,11 @@
   <string name="show_private_msg_summary">Pokaż prywatne wiadomości w Drugiej przestrzeni</string>
   <string name="skip">Pomiń</string>
   <string name="space_create_guide_desc_1">Bezpiecznie przechowuj aplikacje i zdjęcia</string>
-  <string name="space_create_guide_desc_2">Całkowicie gotowa do użycia oddzielna przestrzeń</string>
+  <string name="space_create_guide_desc_2">Gotowa do użycia oddzielna przestrzeń</string>
   <string name="space_create_guide_desc_3">Druga przestrzeń nie wpływa na inne elementy urządzenia</string>
   <string name="space_create_guide_switchmode_title">Przełącz pomiędzy przestrzeniami</string>
-  <string name="space_create_guide_title_1">Ochrona Twojej prywatności</string>
-  <string name="space_create_guide_title_2">Twórz w dowolnym momencie</string>
+  <string name="space_create_guide_title_1">Chroni Twoją prywatność</string>
+  <string name="space_create_guide_title_2">W dowolnym momencie</string>
   <string name="space_create_guide_title_3">Wolna od ryzyka</string>
   <string name="space_created_success">Pomyślnie utworzono Drugą przestrzeń</string>
   <string name="space_deleted">Ta przestrzeń została usunięta</string>

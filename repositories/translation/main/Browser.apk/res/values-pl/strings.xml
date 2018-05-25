@@ -569,7 +569,7 @@ Pamiętaj, że pobrane pliki i dodane zakładki będą zapisane."</string>
     <string name="pref_adblock_title">Blokowanie reklam</string>
     <string name="pref_auto_update_under_wifi">Aktualizuj za pomocą Wi-Fi</string>
     <string name="pref_automatic_matching_searchengines_title">Przełącz na popularną wyszukiwarkę</string>
-    <string name="pref_card_setting">Kolejność popularnych strony</string>
+    <string name="pref_card_setting">Kolejność popularnych stron</string>
     <string name="pref_category_hint">Kategoria</string>
     <string name="pref_check_security_url_summary">Wyślij adres do serwerów Mi, aby sprawdzić jego bezpieczeństwo</string>
     <string name="pref_check_security_url_summary_international">Zezwól przeglądarce na dostęp do URLi serwisów, które odwiedzasz, aby otrzymywać bardziej istotne propozycje.</string>

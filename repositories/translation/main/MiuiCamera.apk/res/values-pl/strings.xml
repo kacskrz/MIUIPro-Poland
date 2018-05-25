@@ -228,8 +228,8 @@
   <string name="pref_camera_focusmode_entry_normal">Standardowa</string>
   <string name="pref_camera_focusmode_title">Ostrość</string>
   <string name="pref_camera_gradienter_title">Poziomica</string>
-  <string name="pref_camera_groupshot_mode_title">Grupowe selfi</string>
-  <string name="pref_camera_hand_night_title">HHT</string>
+  <string name="pref_camera_groupshot_mode_title">Grupowe selfie</string>
+  <string name="pref_camera_hand_night_title">Nocny</string>
   <string name="pref_camera_hdr_entry_auto">Auto</string>
   <string name="pref_camera_hdr_entry_live">Żywy</string>
   <string name="pref_camera_hdr_entry_normal">Pro</string>
@@ -369,7 +369,7 @@
   <string name="pref_retain_camera_mode_title">Zapisz poprzedni tryb</string>
   <string name="pref_scan_qrcode_summary">Tylko główny aparat może skanować kody QR w trybie \"Zdjęcia\".</string>
   <string name="pref_scan_qrcode_title">Skanowanie kodów QR</string>
-  <string name="pref_setting_title">Settings</string>
+  <string name="pref_setting_title">Ustawienia</string>
   <string name="pref_simple_hdr_entry_off">Wył.</string>
   <string name="pref_simple_hdr_entry_on">Wł.</string>
   <string name="pref_skin_beautify_color_title">Ton</string>

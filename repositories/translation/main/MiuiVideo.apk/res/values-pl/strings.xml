@@ -732,4 +732,10 @@
   <string name="vp_VideoView_error_text_invalid_progressive_playback">Ten typ pliku nie jest wspierany.</string>
   <string name="vp_VideoView_error_text_unknown">Wystąpił nieznany błąd.</string>
   <string name="vp_VideoView_error_title">Nieznany błąd</string>
+  <string name="offline_setting_mobile_net_limit_size1">1GB</string>
+    <string name="offline_setting_mobile_net_limit_size2">500MB</string>
+    <string name="offline_setting_mobile_net_limit_summary">Ogranicz użycie danych, gdy rozmiar pobranych filmów przekroczy ustawiony limit</string>
+    <string name="offline_setting_mobile_net_limit_title">Ograniczenia w użyciu danych mobilnych</string>
+    <string name="offline_setting_mobile_net_unlimited">Bez limitu</string>
+	<string name="offline_download_setting">Pobrania</string>
 </resources>

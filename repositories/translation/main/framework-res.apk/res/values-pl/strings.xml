@@ -1370,7 +1370,7 @@
   <string name="stk_cc_ussd_to_dial">Żądanie USSD zostało zmienione na żądanie DIAL.</string>
   <string name="stk_cc_ussd_to_ss">Żądanie USSD zostało zmienione na żądanie SS.</string>
   <string name="stk_cc_ussd_to_ussd">Żądanie USSD zostało zmienione na nowe żądanie USSD.</string>
-  <string name="storage_internal">Wewnętrzna pamięć współdzielona</string>
+  <string name="storage_internal">Pamięć wewnętrzna</string>
   <string name="storage_sd_card">Karta SD</string>
   <string name="storage_sd_card_label">Karta SD (%s)</string>
   <string name="storage_usb">Nośnik USB</string>

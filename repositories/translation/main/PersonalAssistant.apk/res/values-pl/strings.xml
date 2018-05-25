@@ -100,7 +100,7 @@
   <string name="calendar_name">Dodaj wydarzenie</string>
   <string name="calendar_parent">Kalendarz</string>
   <string name="call">Call</string>
-  <string name="card_agenda_settings">Settings</string>
+  <string name="card_agenda_settings">Ustawienia</string>
   <string name="card_already_fly">Took off</string>
   <string name="card_book_all">All bookings</string>
   <string name="card_book_nodata">No bookings</string>
@@ -186,7 +186,7 @@
   <string name="detail_action_delete">Delete</string>
   <string name="detail_action_open_in_browser">Open in Browser</string>
   <string name="detail_action_report_format_problem">The format is invalid</string>
-  <string name="detail_action_settings">Open Settings</string>
+  <string name="detail_action_settings">Otwórz Ustawienia</string>
   <string name="detail_action_share">Share</string>
   <string name="detail_title">Ulubione</string>
   <string name="dialog_cancel_like">Deleted mark successfully</string>
@@ -246,7 +246,7 @@
   <string name="empty_health_card_login_tip_vip">Zaloguj się do Mi Fit i włącz licznik kroków.</string>
   <string name="empty_health_card_tip">Zainstaluj Mi Fit i sparuj Mi Band.</string>
   <string name="empty_health_card_tip_vip">Zainstaluj Mi Fit i włącz licznik kroków.</string>
-  <string name="empty_recharge_card_btn">Go to Settings</string>
+  <string name="empty_recharge_card_btn">Przejdź do ustawień</string>
   <string name="empty_recharge_card_tip">Looks like SIM card isn\'t installed or you haven\'t set your data plan</string>
   <string name="empty_recharge_card_title">No data</string>
   <string name="entrance">Card shortcuts</string>
@@ -893,7 +893,7 @@
   <string name="setting_stock_brief_list">Informacje monitorujące</string>
   <string name="setting_switch_toast_close">Payments aren\'t recorded</string>
   <string name="setting_switch_toast_open">Payments are recorded</string>
-  <string name="settings">Settings</string>
+  <string name="settings">Ustawienia</string>
   <string name="settings_subtitle">Receive notifications after you add something to favorites</string>
   <string name="settings_title">Notify about adding to favorites</string>
   <string name="share_title">Share URL using</string>
