@@ -10,3 +10,5 @@ Translations can be used according to the MIT license rules.
 
 Aktualne, jak i archiwalne wersje ROMu MIUIPro można odnaleźć pod adresem https://miuipro.by/roms
 Current and archival versions of the MIUIPro ROM can be found at https://miuipro.by/roms
+
+# Tłumaczenie odnosi się tylko do MIUI9!
